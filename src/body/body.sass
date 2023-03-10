@@ -1,0 +1,20 @@
+
+.cards-filters-body
+    padding: 20px 30px
+.cards-cont
+    display: grid
+    gap: 10px
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr))
+.no-results
+    padding: 40px 0
+    background-color: #ff6c6c
+    width: 100%
+    text-align: center
+.spinner-div
+    width: 100%
+    text-align: center
+@media screen and ( max-width: 500px )
+    .cards-filters-body
+        padding: 20px 10px
+    .cards-cont
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr))
