@@ -8,6 +8,7 @@ export default function FiltersForm(props) {
     const [year, setYear] = useState("all")
     const [month, setMonth] = useState("all")
     const [country, setCountry] = useState("all")
+    const [role_type, setRole_type] = useState("all")
     const [name, setName] = useState('')
 
     const filterByYear = (listToBeFiltered) => {
@@ -25,7 +26,7 @@ export default function FiltersForm(props) {
     const filterByMonth = (listToBeFiltered) => {
         if (month !== 'all') {
             let temp_list = listToBeFiltered.filter((e) => {
-                return e.month === month;
+                return e.month.toLowerCase() === month.toLowerCase();
             })
             return filterByCountry(temp_list);
         }
@@ -37,7 +38,18 @@ export default function FiltersForm(props) {
     const filterByCountry = (listToBeFiltered) => {
         if (country !== 'all') {
             let temp_list = listToBeFiltered.filter((e) => {
-                return e.country === country;
+                return e.country.toLowerCase() === country.toLowerCase();
+            })
+            return filterByRoleType(temp_list);
+        }
+        else {
+            return filterByRoleType(listToBeFiltered)
+        }
+    }
+    const filterByRoleType = (listToBeFiltered) => {
+        if (role_type !== 'all') {
+            let temp_list = listToBeFiltered.filter((e) => {
+                return e.role_type.toLowerCase() === role_type.toLowerCase();
             })
             return filterByName(temp_list);
         }
@@ -48,7 +60,7 @@ export default function FiltersForm(props) {
     const filterByName = (listToBeFiltered) => {
         if (name !== '') {
             let temp_list = listToBeFiltered.filter((e) => {
-                return e.name.includes(name);
+                return e.name.toLowerCase().includes(name.toLowerCase());
             })
             setSearching(false)
             return temp_list;
@@ -120,6 +132,30 @@ export default function FiltersForm(props) {
 
                     </Select>
                 </FormControl>
+
+
+
+                <FormControl fullWidth>
+                    <InputLabel>BY ROLE</InputLabel>
+                    <Select
+                        value={role_type}
+                        label="BY ROLE TYPE"
+                        onChange={(e) => setRole_type(e.target.value)}
+                        disabled={searching ? true : false}
+                    >
+                        <MenuItem value='all'>All</MenuItem>
+                        <MenuItem value='leadership'>Leadership</MenuItem>
+                        <MenuItem value='sales front office'>Sales Front Office</MenuItem>
+                        <MenuItem value='sales back office'>Sales Back Office</MenuItem>
+                        <MenuItem value='support function'>Support Function</MenuItem>
+                        <MenuItem value='distribution centre'>Distribution Centre</MenuItem>
+                    </Select>
+                </FormControl>
+
+
+
+
+
                 <FormControl fullWidth>
                     <TextField
                         disabled={searching ? true : false}
