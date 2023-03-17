@@ -1,5 +1,5 @@
 import React from 'react'
-import apparel_promotions_banner from '../assets/apparel_promotions_banner.svg'
+// import apparel_promotions_banner from '../assets/apparel_promotions_banner.svg'
 export default function Banner() {
     return (
         <div className='banner-cont'>
