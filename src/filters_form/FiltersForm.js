@@ -39,7 +39,7 @@ export default function FiltersForm(props) {
     if (month !== 'all') {
       let temp_list = listToBeFiltered.filter((e) => {
         if (e.month === undefined || e.month === null) {
-          return '';
+          return true;
         } else return e.month.toLowerCase() === month.toLowerCase();
       });
       return filterByCountry(temp_list);
