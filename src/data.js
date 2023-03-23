@@ -1,4 +1,36 @@
-// import default_image from './assets/default_image.jpg';
+import a101267 from './assets/employee_images/101267.jpg';
+import a102074 from './assets/employee_images/102074.jpg';
+import a106076 from './assets/employee_images/106076.jpg';
+import a107282 from './assets/employee_images/107282.jpg';
+import a109363 from './assets/employee_images/109363.jpg';
+import a109562 from './assets/employee_images/109562.jpg';
+import a110130 from './assets/employee_images/110130.jpg';
+import a114176 from './assets/employee_images/114176.jpg';
+import a116023 from './assets/employee_images/116023.jpg';
+import a119840 from './assets/employee_images/119840.jpg';
+// import a121728 from './assets/employee_images/121728.jpg';
+import a121736 from './assets/employee_images/121736.jpg';
+import a123142 from './assets/employee_images/123142.jpg';
+import a124296 from './assets/employee_images/124296.jpg';
+import a125751 from './assets/employee_images/125751.jpg';
+import a126764 from './assets/employee_images/126764.jpg';
+import a127349 from './assets/employee_images/127349.jpg';
+import a128173 from './assets/employee_images/128173.jpg';
+import a128771 from './assets/employee_images/128771.jpg';
+import a129064 from './assets/employee_images/129064.jpg';
+import a130831 from './assets/employee_images/130831.jpg';
+import a132847 from './assets/employee_images/132847.jpg';
+import a134173 from './assets/employee_images/134173.jpg';
+import a134581 from './assets/employee_images/134581.jpg';
+import a138090 from './assets/employee_images/138090.jpg';
+import a138658 from './assets/employee_images/138658.jpg';
+import a142344 from './assets/employee_images/142344.jpg';
+import a145607 from './assets/employee_images/145607.jpg';
+import a149531 from './assets/employee_images/149531.jpg';
+import a150932 from './assets/employee_images/150932.jpg';
+// import a151255 from './assets/employee_images/151255.jpg';
+import a154738 from './assets/employee_images/154738.jpg';
+
 
 export const data_list = [
   {
@@ -20,6 +52,7 @@ export const data_list = [
     month: 'February',
     brand: 'Business Development',
     country: 'UAE',
+    image: a109562
   },
   {
     id: '130831',
@@ -30,6 +63,7 @@ export const data_list = [
     month: 'February',
     brand: 'Tim Hortons',
     country: 'KSA',
+    image: a130831
   },
   {
     id: '134173',
@@ -40,6 +74,7 @@ export const data_list = [
     month: 'February',
     brand: '6th Street',
     country: 'KUWAIT',
+    image: a134173
   },
   {
     id: '137220',
@@ -61,6 +96,7 @@ export const data_list = [
     month: 'January',
     brand: 'Skechers',
     country: 'UAE',
+    image: a101267
   },
   {
     id: '102074',
@@ -71,6 +107,7 @@ export const data_list = [
     month: 'January',
     brand: 'ALDO',
     country: 'UAE',
+    image: a102074,
   },
   {
     id: '106076',
@@ -81,6 +118,7 @@ export const data_list = [
     month: 'January',
     brand: 'Transport',
     country: 'UAE',
+    image: a106076
   },
   {
     id: '107282',
@@ -91,6 +129,7 @@ export const data_list = [
     month: 'January',
     brand: 'R&B',
     country: 'OMAN',
+    image: a107282
   },
   {
     id: '109363',
@@ -101,6 +140,7 @@ export const data_list = [
     month: 'January',
     brand: 'Birkenstock',
     country: 'KUWAIT',
+    image: a109363
   },
   {
     id: '109829',
@@ -131,6 +171,7 @@ export const data_list = [
     month: 'January',
     brand: 'Aeropostale',
     country: 'KSA',
+    image: a110130
   },
   {
     id: '110470',
@@ -161,6 +202,7 @@ export const data_list = [
     month: 'January',
     brand: 'Nine West',
     country: 'UAE',
+    image: a114176
   },
   {
     id: '114671',
@@ -181,6 +223,7 @@ export const data_list = [
     month: 'January',
     brand: 'Levis',
     country: 'KUWAIT',
+    image: a116023
   },
   {
     id: '119390',
@@ -201,6 +244,7 @@ export const data_list = [
     month: 'January',
     brand: 'Edge',
     country: 'KUWAIT',
+    image: a119840
   },
   {
     id: '121729',
@@ -221,6 +265,7 @@ export const data_list = [
     month: 'January',
     brand: 'ALDO',
     country: 'UAE',
+    image: a121736
   },
   {
     id: '123142',
@@ -231,6 +276,7 @@ export const data_list = [
     month: 'January',
     brand: 'Transport',
     country: 'UAE',
+    image: a123142
   },
   {
     id: '124296',
@@ -241,6 +287,7 @@ export const data_list = [
     month: 'January',
     brand: 'Aeropostale',
     country: 'KUWAIT',
+    image: a124296
   },
   {
     id: '125751',
@@ -251,6 +298,7 @@ export const data_list = [
     month: 'January',
     brand: 'Dune',
     country: 'KUWAIT',
+    image: a125751
   },
   {
     id: '126764',
@@ -261,6 +309,7 @@ export const data_list = [
     month: 'January',
     brand: 'Beverly Hills Polo Club',
     country: 'KUWAIT',
+    image: a126764
   },
   {
     id: '127349',
@@ -271,6 +320,7 @@ export const data_list = [
     month: 'January',
     brand: 'LC Waikiki',
     country: 'BAHRAIN',
+    image: a127349
   },
   {
     id: '128173',
@@ -281,6 +331,7 @@ export const data_list = [
     month: 'January',
     brand: 'Skechers',
     country: 'BAHRAIN',
+    image: a128173
   },
   {
     id: '128345',
@@ -301,6 +352,7 @@ export const data_list = [
     month: 'January',
     brand: 'Brand Bazaar',
     country: 'KUWAIT',
+    image: a128771
   },
   {
     id: '129064',
@@ -311,6 +363,7 @@ export const data_list = [
     month: 'January',
     brand: 'ALDO',
     country: 'UAE',
+    image: a129064
   },
   {
     id: '132847',
@@ -321,6 +374,7 @@ export const data_list = [
     month: 'January',
     brand: 'Lakeland',
     country: 'KUWAIT',
+    image: a132847
   },
   {
     id: '134581',
@@ -331,6 +385,7 @@ export const data_list = [
     month: 'January',
     brand: 'Tim Hortons',
     country: 'KSA',
+    image: a134581
   },
   {
     id: '134889',
@@ -411,6 +466,7 @@ export const data_list = [
     month: 'January',
     brand: 'Transport',
     country: 'UAE',
+    image: a138090
   },
   {
     id: '138658',
@@ -421,6 +477,7 @@ export const data_list = [
     month: 'January',
     brand: 'Tim Hortons',
     country: 'KSA',
+    image: a138658
   },
   {
     id: '139122',
@@ -511,6 +568,7 @@ export const data_list = [
     month: 'January',
     brand: 'HEMA',
     country: 'KUWAIT',
+    image: a142344
   },
   {
     id: '142364',
@@ -571,6 +629,7 @@ export const data_list = [
     month: 'January',
     brand: 'Crocs',
     country: 'KSA',
+    image: a145607
   },
   {
     id: '145831',
@@ -631,6 +690,7 @@ export const data_list = [
     month: 'January',
     brand: 'Tim Hortons',
     country: 'UAE',
+    image: a149531
   },
   {
     id: '150932',
@@ -641,6 +701,7 @@ export const data_list = [
     month: 'January',
     brand: 'Tim Hortons',
     country: 'KSA',
+    image: a150932
   },
   {
     id: '151150',
@@ -671,6 +732,7 @@ export const data_list = [
     month: 'January',
     brand: '6th Street',
     country: 'KSA',
+    image: a154738
   },
   {
     id: '156000',

@@ -5,7 +5,7 @@ export default function Card(item) {
   return (
     <div className="card-cont">
       {/* 2022 has no images so do not show images */}
-      {el.year === 2023 ? <img src={el.image} alt="default-ghgh" /> : ''}
+      {el.image ? <img src={el.image} alt="default-ghgh" /> : ''}
       <div className="info-div">
         <p>
           <strong>Name</strong>
