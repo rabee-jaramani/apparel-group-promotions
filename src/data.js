@@ -90,7 +90,7 @@ export const data_list = [
   {
     id: '101267',
     name: 'Riya Guha',
-    role_type: 'Sales Back Office',
+    role_type: 'Leadership',
     new_role: 'General Manager',
     year: '2023',
     month: 'January',
