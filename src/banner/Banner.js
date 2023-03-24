@@ -1,9 +1,9 @@
-import React from 'react'
-// import apparel_promotions_banner from '../assets/apparel_promotions_banner.svg'
+import React from 'react';
+import banner from '../assets/banner.jpg';
 export default function Banner() {
-    return (
-        <div className='banner-cont'>
-            {/* <img src={apparel_promotions_banner} alt='promotions banner' /> */}
-        </div>
-    )
+  return (
+    <div className="banner-cont">
+      <img src={banner} alt="promotions banner" />
+    </div>
+  );
 }
