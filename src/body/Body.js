@@ -94,56 +94,6 @@ export default function Body() {
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}
-              {/* KSA */}
-              {list_KSA
-                .sort((a, b) => {
-                  const nameA = a.name.toUpperCase();
-                  const nameB = b.name.toUpperCase();
-                  if (nameA < nameB) {
-                    return -1;
-                  }
-                  if (nameA > nameB) {
-                    return 1;
-                  }
-                  return 0;
-                })
-                .map((item) => {
-                  return <Card item={item} key={item.id} />;
-                })}
-
-              {/* OMAN */}
-              {list_OMAN
-                .sort((a, b) => {
-                  const nameA = a.name.toUpperCase();
-                  const nameB = b.name.toUpperCase();
-                  if (nameA < nameB) {
-                    return -1;
-                  }
-                  if (nameA > nameB) {
-                    return 1;
-                  }
-                  return 0;
-                })
-                .map((item) => {
-                  return <Card item={item} key={item.id} />;
-                })}
-              {/* BAHRAIN */}
-              {list_BAHRAIN
-                .sort((a, b) => {
-                  const nameA = a.name.toUpperCase();
-                  const nameB = b.name.toUpperCase();
-                  if (nameA < nameB) {
-                    return -1;
-                  }
-                  if (nameA > nameB) {
-                    return 1;
-                  }
-                  return 0;
-                })
-                .map((item) => {
-                  return <Card item={item} key={item.id} />;
-                })}
-
               {/* QATAR */}
               {list_QATAR
                 .sort((a, b) => {
@@ -163,6 +113,56 @@ export default function Body() {
 
               {/* KUWAIT */}
               {list_KUWAIT
+                .sort((a, b) => {
+                  const nameA = a.name.toUpperCase();
+                  const nameB = b.name.toUpperCase();
+                  if (nameA < nameB) {
+                    return -1;
+                  }
+                  if (nameA > nameB) {
+                    return 1;
+                  }
+                  return 0;
+                })
+                .map((item) => {
+                  return <Card item={item} key={item.id} />;
+                })}
+
+              {/* BAHRAIN */}
+              {list_BAHRAIN
+                .sort((a, b) => {
+                  const nameA = a.name.toUpperCase();
+                  const nameB = b.name.toUpperCase();
+                  if (nameA < nameB) {
+                    return -1;
+                  }
+                  if (nameA > nameB) {
+                    return 1;
+                  }
+                  return 0;
+                })
+                .map((item) => {
+                  return <Card item={item} key={item.id} />;
+                })}
+              {/* OMAN */}
+              {list_OMAN
+                .sort((a, b) => {
+                  const nameA = a.name.toUpperCase();
+                  const nameB = b.name.toUpperCase();
+                  if (nameA < nameB) {
+                    return -1;
+                  }
+                  if (nameA > nameB) {
+                    return 1;
+                  }
+                  return 0;
+                })
+                .map((item) => {
+                  return <Card item={item} key={item.id} />;
+                })}
+
+              {/* KSA */}
+              {list_KSA
                 .sort((a, b) => {
                   const nameA = a.name.toUpperCase();
                   const nameB = b.name.toUpperCase();
