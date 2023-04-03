@@ -28,8 +28,10 @@ import a142344 from './assets/employee_images/142344.jpg';
 import a145607 from './assets/employee_images/145607.jpg';
 import a149531 from './assets/employee_images/149531.jpg';
 import a150932 from './assets/employee_images/150932.jpg';
+import a100511 from './assets/employee_images/100511.jpg';
 // import a151255 from './assets/employee_images/151255.jpg';
 import a154738 from './assets/employee_images/154738.jpg';
+import a121729 from './assets/employee_images/121729.jpg';
 
 export const data_list = [
   {
@@ -41,6 +43,7 @@ export const data_list = [
     month: 'February',
     brand: 'Legal',
     country: 'UAE',
+    image: a100511,
   },
   {
     id: '109562',
@@ -254,6 +257,7 @@ export const data_list = [
     month: 'January',
     brand: 'Tim Hortons',
     country: 'UAE',
+    image: a121729,
   },
   {
     id: '121736',
