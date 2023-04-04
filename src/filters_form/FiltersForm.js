@@ -58,6 +58,7 @@ export default function FiltersForm(props) {
       return filterByRoleType(listToBeFiltered);
     }
   };
+
   const filterByRoleType = (listToBeFiltered) => {
     if (role_type !== 'all') {
       let temp_list = listToBeFiltered.filter((e) => {
@@ -68,6 +69,7 @@ export default function FiltersForm(props) {
       return filterByName(listToBeFiltered);
     }
   };
+
   const filterByName = (listToBeFiltered) => {
     if (name !== '') {
       let temp_list = listToBeFiltered.filter((e) => {
@@ -80,9 +82,9 @@ export default function FiltersForm(props) {
       return listToBeFiltered;
     }
   };
+
   const handleSubmit = () => {
     setSearching(true);
-
     setTimeout(() => {
       setListToRender(filterByYear(originalList));
     }, 1000);

@@ -91,6 +91,11 @@ export default function Body() {
                   }
                   return 0;
                 })
+                .sort((a, b) => {
+                  if (parseInt(a.year) < parseInt(b.year)) return 1;
+                  if (parseInt(a.year) > parseInt(b.year)) return -1;
+                  return 0;
+                })
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}
@@ -105,6 +110,11 @@ export default function Body() {
                   if (nameA > nameB) {
                     return 1;
                   }
+                  return 0;
+                })
+                .sort((a, b) => {
+                  if (parseInt(a.year) < parseInt(b.year)) return 1;
+                  if (parseInt(a.year) > parseInt(b.year)) return -1;
                   return 0;
                 })
                 .map((item) => {
@@ -124,6 +134,11 @@ export default function Body() {
                   }
                   return 0;
                 })
+                .sort((a, b) => {
+                  if (parseInt(a.year) < parseInt(b.year)) return 1;
+                  if (parseInt(a.year) > parseInt(b.year)) return -1;
+                  return 0;
+                })
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}
@@ -139,6 +154,11 @@ export default function Body() {
                   if (nameA > nameB) {
                     return 1;
                   }
+                  return 0;
+                })
+                .sort((a, b) => {
+                  if (parseInt(a.year) < parseInt(b.year)) return 1;
+                  if (parseInt(a.year) > parseInt(b.year)) return -1;
                   return 0;
                 })
                 .map((item) => {
@@ -157,6 +177,11 @@ export default function Body() {
                   }
                   return 0;
                 })
+                .sort((a, b) => {
+                  if (parseInt(a.year) < parseInt(b.year)) return 1;
+                  if (parseInt(a.year) > parseInt(b.year)) return -1;
+                  return 0;
+                })
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}
@@ -172,6 +197,11 @@ export default function Body() {
                   if (nameA > nameB) {
                     return 1;
                   }
+                  return 0;
+                })
+                .sort((a, b) => {
+                  if (parseInt(a.year) < parseInt(b.year)) return 1;
+                  if (parseInt(a.year) > parseInt(b.year)) return -1;
                   return 0;
                 })
                 .map((item) => {

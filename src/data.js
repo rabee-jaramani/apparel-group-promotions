@@ -4,7 +4,7 @@ import a106076 from './assets/employee_images/106076.jpg';
 import a107282 from './assets/employee_images/107282.jpg';
 import a109363 from './assets/employee_images/109363.jpg';
 import a109562 from './assets/employee_images/109562.jpg';
-import a110130 from './assets/employee_images/110130.jpg';
+// import a110130 from './assets/employee_images/110130.jpg';
 import a114176 from './assets/employee_images/114176.jpg';
 import a116023 from './assets/employee_images/116023.jpg';
 import a119840 from './assets/employee_images/119840.jpg';
@@ -23,14 +23,14 @@ import a132847 from './assets/employee_images/132847.jpg';
 import a134173 from './assets/employee_images/134173.jpg';
 import a134581 from './assets/employee_images/134581.jpg';
 import a138090 from './assets/employee_images/138090.jpg';
-import a138658 from './assets/employee_images/138658.jpg';
+// import a138658 from './assets/employee_images/138658.jpg';
 import a142344 from './assets/employee_images/142344.jpg';
 import a145607 from './assets/employee_images/145607.jpg';
 import a149531 from './assets/employee_images/149531.jpg';
 import a150932 from './assets/employee_images/150932.jpg';
 import a100511 from './assets/employee_images/100511.jpg';
 // import a151255 from './assets/employee_images/151255.jpg';
-import a154738 from './assets/employee_images/154738.jpg';
+// import a154738 from './assets/employee_images/154738.jpg';
 import a121729 from './assets/employee_images/121729.jpg';
 
 export const data_list = [
@@ -173,7 +173,7 @@ export const data_list = [
     month: 'January',
     brand: 'Aeropostale',
     country: 'KSA',
-    image: a110130,
+    // image: a110130,
   },
   {
     id: '110470',
@@ -480,7 +480,7 @@ export const data_list = [
     month: 'January',
     brand: 'Tim Hortons',
     country: 'KSA',
-    image: a138658,
+    // image: a138658,
   },
   {
     id: '139122',
@@ -735,7 +735,7 @@ export const data_list = [
     month: 'January',
     brand: '6th Street',
     country: 'KSA',
-    image: a154738,
+    // image: a154738,
   },
   {
     id: '156000',
