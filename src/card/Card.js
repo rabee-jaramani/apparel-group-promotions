@@ -3,7 +3,7 @@ import React from 'react';
 export default function Card(item) {
   const el = item.item;
   return (
-    <div className="card-cont">
+    <div className={`card-cont ${el.IJP ? 'ijp' : ''}`}>
       {/* 2022 has no images so do not show images */}
       {el.image ? <img src={el.image} alt="default-ghgh" /> : ''}
       <div className="info-div">
@@ -11,7 +11,6 @@ export default function Card(item) {
           <strong>Name</strong>
         </p>
         <p className="p-2">{el.name}</p>
-        {/* <div className="line"></div> */}
       </div>
       <div className="info-div">
         <p>
@@ -43,6 +42,15 @@ export default function Card(item) {
           {el.month ? `/${el.month}` : ''}
         </p>
       </div>
+      {el.IJP ? (
+        <div className="info-div">
+          <p style={{ fontSize: '12px' }}>
+            <strong>Powered By Internal Job Posting</strong>
+          </p>
+        </div>
+      ) : (
+        ''
+      )}
     </div>
   );
 }

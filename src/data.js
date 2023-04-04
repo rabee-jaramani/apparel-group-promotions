@@ -67,6 +67,7 @@ export const data_list = [
     brand: 'Business Development',
     country: 'UAE',
     image: a109562,
+    IJP: true,
   },
   {
     id: '130831',
@@ -1282,6 +1283,7 @@ export const data_list = [
     year: '2022',
     brand: 'Rituals',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '101412',
@@ -1372,6 +1374,7 @@ export const data_list = [
     year: '2022',
     brand: 'Nine West',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '101699',
@@ -1984,6 +1987,7 @@ export const data_list = [
     year: '2022',
     brand: 'New Yorker',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '103809',
@@ -2346,6 +2350,7 @@ export const data_list = [
     year: '2022',
     brand: 'Brand Bazaar',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '105459',
@@ -2382,6 +2387,7 @@ export const data_list = [
     year: '2022',
     brand: 'Training',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '105552',
@@ -2571,6 +2577,7 @@ export const data_list = [
     year: '2022',
     brand: 'Brand Bazaar',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '106237',
@@ -3345,6 +3352,7 @@ export const data_list = [
     year: '2022',
     brand: 'Inventory',
     country: 'KSA',
+    IJP: true,
   },
   {
     id: '111327',
@@ -3498,6 +3506,7 @@ export const data_list = [
     year: '2022',
     brand: 'Inventory',
     country: 'KSA',
+    IJP: true,
   },
   {
     id: '112636',
@@ -3930,6 +3939,7 @@ export const data_list = [
     year: '2022',
     brand: 'Skechers',
     country: 'UAE',
+    IJP: true,
   },
   //   {
   //     id: '119175',
@@ -4074,6 +4084,7 @@ export const data_list = [
     year: '2022',
     brand: 'Business Development',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '119631',
@@ -4101,6 +4112,7 @@ export const data_list = [
     year: '2022',
     brand: 'La Vie En Rose',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '119702',
@@ -4119,6 +4131,7 @@ export const data_list = [
     year: '2022',
     brand: 'Inglot',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '119783',
@@ -4561,6 +4574,7 @@ export const data_list = [
     year: '2022',
     brand: 'La Vie En Rose',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '122611',
@@ -5119,6 +5133,7 @@ export const data_list = [
     year: '2022',
     brand: 'DST Third Party Sale',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '126110',
@@ -5272,6 +5287,7 @@ export const data_list = [
     year: '2022',
     brand: 'Marketing',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '126954',
@@ -5570,6 +5586,7 @@ export const data_list = [
     year: '2022',
     brand: 'Transport',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '129009',
@@ -5678,6 +5695,7 @@ export const data_list = [
     year: '2022',
     brand: 'Inventory',
     country: 'KSA',
+    IJP: true,
   },
   {
     id: '129733',
@@ -5687,6 +5705,7 @@ export const data_list = [
     year: '2022',
     brand: 'Inventory',
     country: 'KSA',
+    IJP: true,
   },
   {
     id: '129797',
@@ -5714,6 +5733,7 @@ export const data_list = [
     year: '2022',
     brand: 'Transport',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '129926',
@@ -6452,6 +6472,7 @@ export const data_list = [
     year: '2022',
     brand: 'Inventory',
     country: 'KSA',
+    IJP: true,
   },
   {
     id: '137923',
@@ -6786,6 +6807,7 @@ export const data_list = [
     year: '2022',
     brand: 'Dune',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '142220',
@@ -6795,6 +6817,7 @@ export const data_list = [
     year: '2022',
     brand: 'Beverly Hills Polo Club',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '142931',
@@ -6831,6 +6854,7 @@ export const data_list = [
     year: '2022',
     brand: 'CCC',
     country: 'UAE',
+    IJP: true,
   },
 
   {
@@ -6841,6 +6865,7 @@ export const data_list = [
     year: '2022',
     brand: 'La Vie En Rose',
     country: 'UAE',
+    IJP: true,
   },
   {
     id: '145771',
