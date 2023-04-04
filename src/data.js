@@ -32,8 +32,20 @@ import a100511 from './assets/employee_images/100511.jpg';
 // import a151255 from './assets/employee_images/151255.jpg';
 // import a154738 from './assets/employee_images/154738.jpg';
 import a121729 from './assets/employee_images/121729.jpg';
+import a116370 from './assets/employee_images/116370.jpg';
 
 export const data_list = [
+  {
+    id: '116370',
+    name: 'Sherif Abdallah Ramadan Elsayed Moustafa',
+    role_type: 'Sales Front Office',
+    new_role: 'Cluster Manager',
+    year: '2023',
+    month: 'March',
+    brand: 'Beverly Hills Polo Club',
+    country: 'BAHRAIN',
+    image: a116370,
+  },
   {
     id: '100511',
     name: 'Sashidharan Muniyoor Karicheri',
