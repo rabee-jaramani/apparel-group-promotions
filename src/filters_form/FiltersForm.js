@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import {
   Button,
+  Checkbox,
   FormControl,
+  FormControlLabel,
   InputLabel,
   MenuItem,
   Select,
@@ -23,6 +25,10 @@ export default function FiltersForm(props) {
   const [country, setCountry] = useState('all');
   const [role_type, setRole_type] = useState('all');
   const [name, setName] = useState('');
+  const [ijp_value, setIJP_value] = useState(false);
+  const handle_ijp_change = () => {
+    ijp_value ? setIJP_value(false) : setIJP_value(true);
+  };
 
   const filterByYear = (listToBeFiltered) => {
     if (year !== 'all') {
@@ -74,6 +80,23 @@ export default function FiltersForm(props) {
     if (name !== '') {
       let temp_list = listToBeFiltered.filter((e) => {
         return e.name.toLowerCase().includes(name.toLowerCase());
+      });
+      setSearching(false);
+      return filterByIJP(temp_list);
+    } else {
+      setSearching(false);
+      return filterByIJP(listToBeFiltered);
+    }
+  };
+
+  const filterByIJP = (listToBeFiltered) => {
+    if (ijp_value) {
+      let temp_list = listToBeFiltered.filter((e) => {
+        if (e.IJP) {
+          return e;
+        } else {
+          return '';
+        }
       });
       setSearching(false);
       return temp_list;
@@ -172,6 +195,18 @@ export default function FiltersForm(props) {
             onChange={(e) => setName(e.target.value)}
           />
         </FormControl>
+
+        <FormControlLabel
+          className="check-box-mui"
+          label="By Internal Job Posting"
+          control={
+            <Checkbox
+              onChange={handle_ijp_change}
+              inputProps={{ 'aria-label': 'controlled' }}
+            />
+          }
+        />
+
         <Button
           disabled={searching ? true : false}
           onClick={handleSubmit}
