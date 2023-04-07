@@ -16,7 +16,7 @@ export default function Footer() {
       >
         www.apparelgroupglobal.com
       </a>
-      <p className="powered-by">Powered By Apparel Group</p>
+      <p className="powered-by">Powered By APPAREL GROUP</p>
     </div>
   );
 }
