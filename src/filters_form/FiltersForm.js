@@ -198,6 +198,7 @@ export default function FiltersForm(props) {
 
         <FormControlLabel
           className="check-box-mui"
+          id="by-job-posting"
           label="By Internal Job Posting"
           control={
             <Checkbox
