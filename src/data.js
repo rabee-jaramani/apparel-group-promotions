@@ -3236,6 +3236,7 @@ export const data_list = [
     brand: 'Administration',
     country: 'UAE',
     image: a105482,
+    IJP: true,
   },
   {
     id: '105966',
@@ -3423,6 +3424,7 @@ export const data_list = [
     brand: 'Dune',
     country: 'UAE',
     image: a113281,
+    IJP: true,
   },
   {
     id: '113973',
@@ -3478,6 +3480,7 @@ export const data_list = [
     brand: 'Jamies Pizzeria',
     country: 'UAE',
     image: a115478,
+    IJP: true,
   },
   {
     id: '115493',
@@ -3599,6 +3602,7 @@ export const data_list = [
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a118182,
+    IJP: true,
   },
   {
     id: '118237',
@@ -3665,6 +3669,7 @@ export const data_list = [
     brand: 'The Athletes Co',
     country: 'UAE',
     image: a119426,
+    IJP: true,
   },
   {
     id: '119817',
@@ -3885,6 +3890,7 @@ export const data_list = [
     brand: 'CCC',
     country: 'UAE',
     image: a123130,
+    IJP: true,
   },
   {
     id: '123504',
@@ -3907,6 +3913,7 @@ export const data_list = [
     brand: 'DST Third Party Sale',
     country: 'UAE',
     image: a123901,
+    IJP: true,
   },
   {
     id: '124003',
@@ -5086,6 +5093,7 @@ export const data_list = [
     image: a109562,
     IJP: true,
   },
+
   {
     id: '130831',
     name: 'Ali Akbar Mansur',
