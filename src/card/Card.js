@@ -5,7 +5,13 @@ export default function Card(item) {
   return (
     <div className={`card-cont ${el.IJP ? 'ijp' : ''}`}>
       {/* 2022 has no images so do not show images */}
-      {el.image ? <img src={el.image} alt="default-ghgh" /> : ''}
+      {el.image ? (
+        <div className="img-div">
+          <img src={el.image} alt="default-ghgh" />
+        </div>
+      ) : (
+        ''
+      )}
       <div className="info-div">
         <p>
           <strong>Name</strong>

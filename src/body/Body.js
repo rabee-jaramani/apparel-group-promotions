@@ -12,7 +12,20 @@ export default function Body() {
   const [list_KUWAIT, setList_KUWAIT] = useState([]);
   const [list_QATAR, setList_QATAR] = useState([]);
   const [searching, setSearching] = useState(false);
-
+  const month_list = [
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+    'July',
+    'August',
+    'September',
+    'October',
+    'November',
+    'December',
+  ];
   const countries_lists = (list) => {
     const tem_list_UAE = [];
     const tem_list_KSA = [];
@@ -92,8 +105,20 @@ export default function Body() {
                   return 0;
                 })
                 .sort((a, b) => {
+                  if (a.role_type === 'Leadership') return -1;
+                  if (b.role_type === 'Leadership') return 1;
+                  return 0;
+                })
+                .sort((a, b) => {
                   if (parseInt(a.year) < parseInt(b.year)) return 1;
                   if (parseInt(a.year) > parseInt(b.year)) return -1;
+                  return 0;
+                })
+                .sort((a, b) => {
+                  if (month_list.indexOf(a.month) < month_list.indexOf(b.month))
+                    return 1;
+                  if (month_list.indexOf(a.month) > month_list.indexOf(b.month))
+                    return -1;
                   return 0;
                 })
                 .map((item) => {
@@ -113,8 +138,20 @@ export default function Body() {
                   return 0;
                 })
                 .sort((a, b) => {
+                  if (a.role_type === 'Leadership') return -1;
+                  if (b.role_type === 'Leadership') return 1;
+                  return 0;
+                })
+                .sort((a, b) => {
                   if (parseInt(a.year) < parseInt(b.year)) return 1;
                   if (parseInt(a.year) > parseInt(b.year)) return -1;
+                  return 0;
+                })
+                .sort((a, b) => {
+                  if (month_list.indexOf(a.month) < month_list.indexOf(b.month))
+                    return 1;
+                  if (month_list.indexOf(a.month) > month_list.indexOf(b.month))
+                    return -1;
                   return 0;
                 })
                 .map((item) => {
@@ -135,10 +172,23 @@ export default function Body() {
                   return 0;
                 })
                 .sort((a, b) => {
+                  if (a.role_type === 'Leadership') return -1;
+                  if (b.role_type === 'Leadership') return 1;
+                  return 0;
+                })
+                .sort((a, b) => {
                   if (parseInt(a.year) < parseInt(b.year)) return 1;
                   if (parseInt(a.year) > parseInt(b.year)) return -1;
                   return 0;
                 })
+                .sort((a, b) => {
+                  if (month_list.indexOf(a.month) < month_list.indexOf(b.month))
+                    return 1;
+                  if (month_list.indexOf(a.month) > month_list.indexOf(b.month))
+                    return -1;
+                  return 0;
+                })
+
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}
@@ -157,10 +207,23 @@ export default function Body() {
                   return 0;
                 })
                 .sort((a, b) => {
+                  if (a.role_type === 'Leadership') return -1;
+                  if (b.role_type === 'Leadership') return 1;
+                  return 0;
+                })
+                .sort((a, b) => {
                   if (parseInt(a.year) < parseInt(b.year)) return 1;
                   if (parseInt(a.year) > parseInt(b.year)) return -1;
                   return 0;
                 })
+                .sort((a, b) => {
+                  if (month_list.indexOf(a.month) < month_list.indexOf(b.month))
+                    return 1;
+                  if (month_list.indexOf(a.month) > month_list.indexOf(b.month))
+                    return -1;
+                  return 0;
+                })
+
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}
@@ -178,10 +241,23 @@ export default function Body() {
                   return 0;
                 })
                 .sort((a, b) => {
+                  if (a.role_type === 'Leadership') return -1;
+                  if (b.role_type === 'Leadership') return 1;
+                  return 0;
+                })
+                .sort((a, b) => {
                   if (parseInt(a.year) < parseInt(b.year)) return 1;
                   if (parseInt(a.year) > parseInt(b.year)) return -1;
                   return 0;
                 })
+                .sort((a, b) => {
+                  if (month_list.indexOf(a.month) < month_list.indexOf(b.month))
+                    return 1;
+                  if (month_list.indexOf(a.month) > month_list.indexOf(b.month))
+                    return -1;
+                  return 0;
+                })
+
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}
@@ -200,10 +276,23 @@ export default function Body() {
                   return 0;
                 })
                 .sort((a, b) => {
+                  if (a.role_type === 'Leadership') return -1;
+                  if (b.role_type === 'Leadership') return 1;
+                  return 0;
+                })
+                .sort((a, b) => {
                   if (parseInt(a.year) < parseInt(b.year)) return 1;
                   if (parseInt(a.year) > parseInt(b.year)) return -1;
                   return 0;
                 })
+                .sort((a, b) => {
+                  if (month_list.indexOf(a.month) < month_list.indexOf(b.month))
+                    return 1;
+                  if (month_list.indexOf(a.month) > month_list.indexOf(b.month))
+                    return -1;
+                  return 0;
+                })
+
                 .map((item) => {
                   return <Card item={item} key={item.id} />;
                 })}

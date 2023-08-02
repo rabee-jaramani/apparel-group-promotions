@@ -4,11 +4,9 @@ import a106076 from './assets/employee_images/106076.jpg';
 import a107282 from './assets/employee_images/107282.jpg';
 import a109363 from './assets/employee_images/109363.jpg';
 import a109562 from './assets/employee_images/109562.jpg';
-// import a110130 from './assets/employee_images/110130.jpg';
 import a114176 from './assets/employee_images/114176.jpg';
 import a116023 from './assets/employee_images/116023.jpg';
 import a119840 from './assets/employee_images/119840.jpg';
-// import a121728 from './assets/employee_images/121728.jpg';
 import a121736 from './assets/employee_images/121736.jpg';
 import a123142 from './assets/employee_images/123142.jpg';
 import a124296 from './assets/employee_images/124296.jpg';
@@ -23,28 +21,17 @@ import a132847 from './assets/employee_images/132847.jpg';
 import a134173 from './assets/employee_images/134173.jpg';
 import a134581 from './assets/employee_images/134581.jpg';
 import a138090 from './assets/employee_images/138090.jpg';
-// import a138658 from './assets/employee_images/138658.jpg';
 import a142344 from './assets/employee_images/142344.jpg';
 import a145607 from './assets/employee_images/145607.jpg';
 import a149531 from './assets/employee_images/149531.jpg';
 import a150932 from './assets/employee_images/150932.jpg';
 import a100511 from './assets/employee_images/100511.jpg';
-// import a151255 from './assets/employee_images/151255.jpg';
-// import a154738 from './assets/employee_images/154738.jpg';
 import a121729 from './assets/employee_images/121729.jpg';
-import a116370 from './assets/employee_images/116370.jpg';
-
-// import a100053 from './assets/employee_images/100053.jpg';
-// import a100224 from './assets/employee_images/100224.jpg';
-// import a100244 from './assets/employee_images/100244.jpg';
-// import a100310 from './assets/employee_images/100310.jpg';
 import a100345 from './assets/employee_images/100345.jpg';
 import a100622 from './assets/employee_images/100622.jpg';
-// import a100688 from './assets/employee_images/100688.jpg';
 import a100884 from './assets/employee_images/100884.jpg';
 import a100932 from './assets/employee_images/100932.jpg';
 import a101031 from './assets/employee_images/101031.jpg';
-// import a101035 from './assets/employee_images/101035.jpg';
 import a101095 from './assets/employee_images/101095.jpg';
 import a101255 from './assets/employee_images/101255.jpg';
 import a101299 from './assets/employee_images/101299.jpg';
@@ -52,18 +39,13 @@ import a101437 from './assets/employee_images/101437.jpg';
 import a101443 from './assets/employee_images/101443.jpg';
 import a101468 from './assets/employee_images/101468.jpg';
 import a101541 from './assets/employee_images/101541.jpg';
-// import a101566 from './assets/employee_images/101566.jpg';
-// import a101617 from './assets/employee_images/101617.jpg';
 import a101644 from './assets/employee_images/101644.jpg';
 import a101652 from './assets/employee_images/101652.jpg';
 import a101788 from './assets/employee_images/101788.jpg';
 import a101887 from './assets/employee_images/101887.jpg';
 import a102393 from './assets/employee_images/102393.jpg';
-// import a102512 from './assets/employee_images/102512.jpg';
 import a102566 from './assets/employee_images/102566.jpg';
-// import a102647 from './assets/employee_images/102647.jpg';
 import a102795 from './assets/employee_images/102795.jpg';
-// import a102838 from './assets/employee_images/102838.jpg';
 import a102906 from './assets/employee_images/102906.jpg';
 import a103252 from './assets/employee_images/103252.jpg';
 import a103866 from './assets/employee_images/103866.jpg';
@@ -73,9 +55,6 @@ import a104865 from './assets/employee_images/104865.jpg';
 import a105482 from './assets/employee_images/105482.jpg';
 import a105966 from './assets/employee_images/105966.jpg';
 import a106117 from './assets/employee_images/106117.jpg';
-// import a107874 from './assets/employee_images/107874.jpg';
-// import a107889 from './assets/employee_images/107889.jpg';
-// import a107918 from './assets/employee_images/107918.jpg';
 import a108093 from './assets/employee_images/108093.jpg';
 import a108281 from './assets/employee_images/108281.jpg';
 import a108401 from './assets/employee_images/108401.jpg';
@@ -88,8 +67,6 @@ import a112251 from './assets/employee_images/112251.jpg';
 import a112644 from './assets/employee_images/112644.jpg';
 import a112648 from './assets/employee_images/112648.jpg';
 import a113281 from './assets/employee_images/113281.jpg';
-// import a113973 from './assets/employee_images/113973.jpg';
-// import a113975 from './assets/employee_images/113975.jpg';
 import a114191 from './assets/employee_images/114191.jpg';
 import a114274 from './assets/employee_images/114274.jpg';
 import a115478 from './assets/employee_images/115478.jpg';
@@ -97,7 +74,6 @@ import a115493 from './assets/employee_images/115493.jpg';
 import a115852 from './assets/employee_images/115852.jpg';
 import a116790 from './assets/employee_images/116790.jpg';
 import a116927 from './assets/employee_images/116927.jpg';
-// import a117211 from './assets/employee_images/117211.jpg';
 import a117221 from './assets/employee_images/117221.jpg';
 import a117320 from './assets/employee_images/117320.jpg';
 import a117861 from './assets/employee_images/117861.jpg';
@@ -120,18 +96,14 @@ import a120793 from './assets/employee_images/120793.jpg';
 import a120994 from './assets/employee_images/120994.jpg';
 import a121219 from './assets/employee_images/121219.jpg';
 import a121447 from './assets/employee_images/121447.jpg';
-// import a121972 from './assets/employee_images/121972.jpg';
 import a121992 from './assets/employee_images/121992.jpg';
 import a121997 from './assets/employee_images/121997.jpg';
-// import a122469 from './assets/employee_images/122469.jpg';
 import a122567 from './assets/employee_images/122567.jpg';
-// import a122999 from './assets/employee_images/122999.jpg';
 import a123016 from './assets/employee_images/123016.jpg';
 import a123125 from './assets/employee_images/123125.jpg';
 import a123130 from './assets/employee_images/123130.jpg';
 import a123504 from './assets/employee_images/123504.jpg';
 import a123901 from './assets/employee_images/123901.jpg';
-// import a124003 from './assets/employee_images/124003.jpg';
 import a124014 from './assets/employee_images/124014.jpg';
 import a124066 from './assets/employee_images/124066.jpg';
 import a124178 from './assets/employee_images/124178.jpg';
@@ -142,37 +114,27 @@ import a124560 from './assets/employee_images/124560.jpg';
 import a124815 from './assets/employee_images/124815.jpg';
 import a125064 from './assets/employee_images/125064.jpg';
 import a125159 from './assets/employee_images/125159.jpg';
-// import a125175 from './assets/employee_images/125175.jpg';
-// import a125186 from './assets/employee_images/125186.jpg';
 import a125250 from './assets/employee_images/125250.jpg';
 import a125320 from './assets/employee_images/125320.jpg';
 import a125373 from './assets/employee_images/125373.jpg';
-// import a125594 from './assets/employee_images/125594.jpg';
 import a125621 from './assets/employee_images/125621.jpg';
-// import a125659 from './assets/employee_images/125659.jpg';
 import a125775 from './assets/employee_images/125775.jpg';
-// import a126135 from './assets/employee_images/126135.jpg';
 import a126219 from './assets/employee_images/126219.jpg';
 import a126560 from './assets/employee_images/126560.jpg';
 import a126563 from './assets/employee_images/126563.jpg';
 import a126600 from './assets/employee_images/126600.jpg';
-// import a126714 from './assets/employee_images/126714.jpg';
 import a126776 from './assets/employee_images/126776.jpg';
 import a126924 from './assets/employee_images/126924.jpg';
-// import a126981 from './assets/employee_images/126981.jpg';
 import a127340 from './assets/employee_images/127340.jpg';
 import a127473 from './assets/employee_images/127473.jpg';
 import a127723 from './assets/employee_images/127723.jpg';
-// import a127870 from './assets/employee_images/127870.jpg';
 import a127923 from './assets/employee_images/127923.jpg';
-// import a128187 from './assets/employee_images/128187.jpg';
 import a128220 from './assets/employee_images/128220.jpg';
 import a128448 from './assets/employee_images/128448.jpg';
 import a128807 from './assets/employee_images/128807.jpg';
 import a129273 from './assets/employee_images/129273.jpg';
 import a129345 from './assets/employee_images/129345.jpg';
 import a129663 from './assets/employee_images/129663.jpg';
-// import a130132 from './assets/employee_images/130132.jpg';
 import a130585 from './assets/employee_images/130585.jpg';
 import a130683 from './assets/employee_images/130683.jpg';
 import a132363 from './assets/employee_images/132363.jpg';
@@ -183,14 +145,12 @@ import a133876 from './assets/employee_images/133876.jpg';
 import a134545 from './assets/employee_images/134545.jpg';
 import a135630 from './assets/employee_images/135630.jpg';
 import a135696 from './assets/employee_images/135696.jpg';
-// import a135769 from './assets/employee_images/135769.jpg';
 import a135820 from './assets/employee_images/135820.jpg';
 import a135823 from './assets/employee_images/135823.jpg';
 import a135918 from './assets/employee_images/135918.jpg';
 import a136060 from './assets/employee_images/136060.jpg';
 import a136075 from './assets/employee_images/136075.jpg';
 import a136076 from './assets/employee_images/136076.jpg';
-// import a136121 from './assets/employee_images/136121.jpg';
 import a136257 from './assets/employee_images/136257.jpg';
 import a136513 from './assets/employee_images/136513.jpg';
 import a136573 from './assets/employee_images/136573.jpg';
@@ -198,42 +158,28 @@ import a136838 from './assets/employee_images/136838.jpg';
 import a137097 from './assets/employee_images/137097.jpg';
 import a137416 from './assets/employee_images/137416.jpg';
 import a137476 from './assets/employee_images/137476.jpg';
-// import a137696 from './assets/employee_images/137696.jpg';
-// import a137979 from './assets/employee_images/137979.jpg';
 import a138110 from './assets/employee_images/138110.jpg';
 import a138270 from './assets/employee_images/138270.jpg';
-// import a138345 from './assets/employee_images/138345.jpg';
-// import a138920 from './assets/employee_images/138920.jpg';
 import a139226 from './assets/employee_images/139226.jpg';
-// import a139417 from './assets/employee_images/139417.jpg';
 import a140620 from './assets/employee_images/140620.jpg';
-// import a140952 from './assets/employee_images/140952.jpg';
 import a140953 from './assets/employee_images/140953.jpg';
 import a142101 from './assets/employee_images/142101.jpg';
 import a142391 from './assets/employee_images/142391.jpg';
 import a142468 from './assets/employee_images/142468.jpg';
 import a142572 from './assets/employee_images/142572.jpg';
 import a142645 from './assets/employee_images/142645.jpg';
-// import a142660 from './assets/employee_images/142660.jpg';
 import a142682 from './assets/employee_images/142682.jpg';
-// import a142776 from './assets/employee_images/142776.jpg';
 import a143341 from './assets/employee_images/143341.jpg';
 import a143519 from './assets/employee_images/143519.jpg';
 import a143618 from './assets/employee_images/143618.jpg';
-// import a143714 from './assets/employee_images/143714.jpg';
 import a143733 from './assets/employee_images/143733.jpg';
-// import a143930 from './assets/employee_images/143930.jpg';
 import a144121 from './assets/employee_images/144121.jpg';
 import a144441 from './assets/employee_images/144441.jpg';
-// import a144593 from './assets/employee_images/144593.jpg';
 import a144928 from './assets/employee_images/144928.jpg';
-// import a145878 from './assets/employee_images/145878.jpg';
-// import a146064 from './assets/employee_images/146064.jpg';
 import a146490 from './assets/employee_images/146490.jpg';
 import a146975 from './assets/employee_images/146975.jpg';
 import a147165 from './assets/employee_images/147165.jpg';
 import a147778 from './assets/employee_images/147778.jpg';
-// import a149773 from './assets/employee_images/149773.jpg';
 import a149894 from './assets/employee_images/149894.jpg';
 import a159631 from './assets/employee_images/159631.jpg';
 
@@ -243,7 +189,6 @@ import a135860 from './assets/employee_images/135860.jpg';
 import a136351 from './assets/employee_images/136351.jpg';
 import a124060 from './assets/employee_images/124060.jpg';
 import a121027 from './assets/employee_images/121027.jpg';
-// import a104453 from './assets/employee_images/104453.jpg';
 import a121109 from './assets/employee_images/121109.jpg';
 import a128863 from './assets/employee_images/128863.jpg';
 import a136757 from './assets/employee_images/136757.jpg';
@@ -257,7 +202,6 @@ import a138191 from './assets/employee_images/138191.jpg';
 import a138190 from './assets/employee_images/138190.jpg';
 import a138173 from './assets/employee_images/138173.jpg';
 import a137924 from './assets/employee_images/137924.jpg';
-// import a139195 from './assets/employee_images/139195.jpg';
 import a107708 from './assets/employee_images/107708.jpg';
 import a145342 from './assets/employee_images/145342.jpg';
 import a102988 from './assets/employee_images/102988.jpg';
@@ -279,7 +223,6 @@ import a138088 from './assets/employee_images/138088.jpg';
 import a138171 from './assets/employee_images/138171.jpg';
 import a138134 from './assets/employee_images/138134.jpg';
 import a138941 from './assets/employee_images/138941.jpg';
-// import a142063 from './assets/employee_images/142063.jpg';
 import a129292 from './assets/employee_images/129292.jpg';
 import a129916 from './assets/employee_images/129916.jpg';
 import a130710 from './assets/employee_images/130710.jpg';
@@ -294,8 +237,6 @@ import a116917 from './assets/employee_images/116917.jpg';
 import a106156 from './assets/employee_images/106156.jpg';
 import a121350 from './assets/employee_images/121350.jpg';
 import a122243 from './assets/employee_images/122243.jpg';
-// import a102413 from './assets/employee_images/102413.jpg';
-// import a135656 from './assets/employee_images/135656.jpg';
 import a127222 from './assets/employee_images/127222.jpg';
 import a124544 from './assets/employee_images/124544.jpg';
 import a136698 from './assets/employee_images/136698.jpg';
@@ -311,7 +252,6 @@ import a124786 from './assets/employee_images/124786.jpg';
 import a129101 from './assets/employee_images/129101.jpg';
 import a131492 from './assets/employee_images/131492.jpg';
 import a133275 from './assets/employee_images/133275.jpg';
-// import a139822 from './assets/employee_images/139822.jpg';
 import a102981 from './assets/employee_images/102981.jpg';
 import a103129 from './assets/employee_images/103129.jpg';
 import a103590 from './assets/employee_images/103590.jpg';
@@ -319,12 +259,9 @@ import a103713 from './assets/employee_images/103713.jpg';
 import a105906 from './assets/employee_images/105906.jpg';
 import a131353 from './assets/employee_images/131353.jpg';
 import a100438 from './assets/employee_images/100438.jpg';
-// import a100735 from './assets/employee_images/100735.jpg';
 import a103085 from './assets/employee_images/103085.jpg';
 import a104804 from './assets/employee_images/104804.jpg';
-// import a112485 from './assets/employee_images/112485.jpg';
 import a116489 from './assets/employee_images/116489.jpg';
-
 import a101504 from './assets/employee_images/101504.jpg';
 import a101316 from './assets/employee_images/101316.jpg';
 import a104897 from './assets/employee_images/104897.jpg';
@@ -334,7 +271,6 @@ import a124552 from './assets/employee_images/124552.jpg';
 import a104912 from './assets/employee_images/104912.jpg';
 import a105050 from './assets/employee_images/105050.jpg';
 import a105071 from './assets/employee_images/105071.jpg';
-// import a103559 from './assets/employee_images/103559.jpg';
 import a128350 from './assets/employee_images/128350.jpg';
 import a122758 from './assets/employee_images/122758.jpg';
 import a136428 from './assets/employee_images/136428.jpg';
@@ -351,7 +287,6 @@ import a119129 from './assets/employee_images/119129.jpg';
 import a121306 from './assets/employee_images/121306.jpg';
 import a123897 from './assets/employee_images/123897.jpg';
 import a136296 from './assets/employee_images/136296.jpg';
-// import a137597 from './assets/employee_images/137597.jpg';
 import a138066 from './assets/employee_images/138066.jpg';
 import a138555 from './assets/employee_images/138555.jpg';
 import a144006 from './assets/employee_images/144006.jpg';
@@ -368,8 +303,6 @@ import a136760 from './assets/employee_images/136760.jpg';
 import a136821 from './assets/employee_images/136821.jpg';
 import a136886 from './assets/employee_images/136886.jpg';
 import a137394 from './assets/employee_images/137394.jpg';
-// import a138860 from './assets/employee_images/138860.jpg';
-// import a139043 from './assets/employee_images/139043.jpg';
 import a100637 from './assets/employee_images/100637.jpg';
 import a105878 from './assets/employee_images/105878.jpg';
 import a124846 from './assets/employee_images/124846.jpg';
@@ -383,10 +316,38 @@ import a112125 from './assets/employee_images/112125.jpg';
 import a113294 from './assets/employee_images/113294.jpg';
 import a119073 from './assets/employee_images/119073.jpg';
 import a131372 from './assets/employee_images/131372.jpg';
-// import a105511 from './assets/employee_images/105511.jpg';
 import a124709 from './assets/employee_images/124709.jpg';
 import a125781 from './assets/employee_images/125781.jpg';
 import a136256 from './assets/employee_images/136256.jpg';
+// ////////////////////////
+import a100053 from './assets/employee_images/100053.jpg';
+import a100224 from './assets/employee_images/100224.jpg';
+import a100244 from './assets/employee_images/100244.jpg';
+import a100310 from './assets/employee_images/100310.jpg';
+import a102413 from './assets/employee_images/102413.jpg';
+import a116370 from './assets/employee_images/116370.jpg';
+import a122469 from './assets/employee_images/122469.jpg';
+import a126714 from './assets/employee_images/126714.jpg';
+import a126981 from './assets/employee_images/126981.jpg';
+import a127870 from './assets/employee_images/127870.jpg';
+import a128187 from './assets/employee_images/128187.jpg';
+import a130132 from './assets/employee_images/130132.jpg';
+import a136121 from './assets/employee_images/136121.jpg';
+import a137597 from './assets/employee_images/137597.jpg';
+import a137696 from './assets/employee_images/137696.jpg';
+import a138345 from './assets/employee_images/138345.jpg';
+import a138860 from './assets/employee_images/138860.jpg';
+import a138920 from './assets/employee_images/138920.jpg';
+import a139043 from './assets/employee_images/139043.jpg';
+import a139195 from './assets/employee_images/139195.jpg';
+import a139417 from './assets/employee_images/139417.jpg';
+import a139822 from './assets/employee_images/139822.jpg';
+import a140952 from './assets/employee_images/140952.jpg';
+import a142063 from './assets/employee_images/142063.jpg';
+import a142776 from './assets/employee_images/142776.jpg';
+import a143930 from './assets/employee_images/143930.jpg';
+import a146064 from './assets/employee_images/146064.jpg';
+import a149773 from './assets/employee_images/149773.jpg';
 //
 export const data_list = [
   {
@@ -395,7 +356,7 @@ export const data_list = [
     role_type: 'Support Function',
     new_role: 'Audit Incharge',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Audit',
     country: 'UAE',
     image: a101504,
@@ -406,7 +367,7 @@ export const data_list = [
     role_type: 'Support Function',
     new_role: 'Executive - Inventory',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Inventory',
     country: 'UAE',
     image: a101316,
@@ -417,7 +378,7 @@ export const data_list = [
     role_type: 'Support Function',
     new_role: 'Executive - Loss Prevention',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Loss and Prevention',
     country: 'UAE',
     image: a104897,
@@ -428,7 +389,7 @@ export const data_list = [
     role_type: 'Support Function',
     new_role: 'Executive - Loss Prevention',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Loss and Prevention',
     country: 'UAE',
     image: a101162,
@@ -439,7 +400,7 @@ export const data_list = [
     role_type: 'Support Function',
     new_role: 'Assistant Manager (Real Estate)',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Real Estate',
     country: 'UAE',
     image: a105640,
@@ -450,7 +411,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Beverly Hills Polo Club',
     country: 'UAE',
     image: a124552,
@@ -461,7 +422,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Levis',
     country: 'UAE',
     image: a104912,
@@ -472,7 +433,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Levis',
     country: 'UAE',
     image: a105050,
@@ -483,7 +444,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Levis',
     country: 'UAE',
     image: a105071,
@@ -494,7 +455,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Levis',
     country: 'UAE',
     // image: a103559,
@@ -505,7 +466,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Levis',
     country: 'UAE',
     image: a128350,
@@ -516,7 +477,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Levis',
     country: 'UAE',
     image: a122758,
@@ -527,7 +488,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Childrens Place',
     country: 'UAE',
     image: a136428,
@@ -538,7 +499,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'La Vie En Rose',
     country: 'UAE',
     image: a114017,
@@ -549,7 +510,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'La Vie En Rose',
     country: 'UAE',
     image: a122569,
@@ -560,7 +521,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'La Vie En Rose',
     country: 'UAE',
     image: a124395,
@@ -571,7 +532,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Nine West',
     country: 'UAE',
     image: a101632,
@@ -582,7 +543,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dune',
     country: 'UAE',
     image: a102329,
@@ -593,7 +554,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dune',
     country: 'UAE',
     image: a105568,
@@ -604,7 +565,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Naturalizer',
     country: 'UAE',
     image: a105696,
@@ -615,7 +576,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dune',
     country: 'UAE',
     image: a111975,
@@ -626,7 +587,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Nine West',
     country: 'UAE',
     image: a115510,
@@ -637,7 +598,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Naturalizer',
     country: 'UAE',
     image: a119129,
@@ -648,7 +609,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Naturalizer',
     country: 'UAE',
     image: a121306,
@@ -659,7 +620,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Naturalizer',
     country: 'UAE',
     image: a123897,
@@ -670,7 +631,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'TOMS',
     country: 'UAE',
     image: a136296,
@@ -681,10 +642,10 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Nine West',
     country: 'UAE',
-    // image: a137597,
+    image: a137597,
   },
   {
     id: '138066',
@@ -692,7 +653,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Naturalizer',
     country: 'UAE',
     image: a138066,
@@ -703,7 +664,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Nine West',
     country: 'UAE',
     image: a138555,
@@ -714,7 +675,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'CCC',
     country: 'UAE',
     image: a144006,
@@ -725,7 +686,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Nine West',
     country: 'UAE',
     image: a144124,
@@ -736,7 +697,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Nine West',
     country: 'UAE',
     image: a145098,
@@ -747,7 +708,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Nine West',
     country: 'UAE',
     image: a145099,
@@ -758,7 +719,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a102923,
@@ -769,7 +730,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a125600,
@@ -780,7 +741,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a127974,
@@ -791,7 +752,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a128007,
@@ -802,7 +763,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a128346,
@@ -813,7 +774,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a136759,
@@ -824,7 +785,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a136760,
@@ -835,7 +796,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a136821,
@@ -846,7 +807,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a136886,
@@ -857,7 +818,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
     image: a137394,
@@ -868,10 +829,10 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
-    // image: a138860,
+    image: a138860,
   },
   {
     id: '139043',
@@ -879,10 +840,10 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'HEMA',
     country: 'UAE',
-    // image: a139043,
+    image: a139043,
   },
   {
     id: '100637',
@@ -890,7 +851,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dollar Plus',
     country: 'UAE',
     image: a100637,
@@ -901,7 +862,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dollar Plus',
     country: 'UAE',
     image: a105878,
@@ -912,7 +873,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dollar Plus',
     country: 'UAE',
     image: a124846,
@@ -923,7 +884,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dollar Plus',
     country: 'UAE',
     image: a128213,
@@ -934,7 +895,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Dollar Plus',
     country: 'UAE',
     image: a128923,
@@ -945,7 +906,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'R&B Kids',
     country: 'UAE',
     image: a144611,
@@ -956,7 +917,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Skechers',
     country: 'UAE',
     image: a104715,
@@ -967,7 +928,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Skechers',
     country: 'UAE',
     image: a105981,
@@ -978,7 +939,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Skechers',
     country: 'UAE',
     image: a145843,
@@ -989,7 +950,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Crocs',
     country: 'UAE',
     image: a112125,
@@ -1000,7 +961,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Crocs',
     country: 'UAE',
     image: a113294,
@@ -1011,7 +972,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Crocs',
     country: 'UAE',
     image: a119073,
@@ -1022,7 +983,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Crocs',
     country: 'UAE',
     image: a131372,
@@ -1033,7 +994,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Calvin Klein',
     country: 'UAE',
     // image: a105511,
@@ -1044,7 +1005,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Calvin Klein',
     country: 'UAE',
     image: a124709,
@@ -1055,7 +1016,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Calvin Klein',
     country: 'UAE',
     image: a125781,
@@ -1066,7 +1027,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Charles & Keith',
     country: 'UAE',
     image: a136256,
@@ -1077,7 +1038,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Charles & Keith',
     country: 'UAE',
     image: a136409,
@@ -1088,7 +1049,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Charles & Keith',
     country: 'UAE',
     image: a120247,
@@ -1099,7 +1060,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Charles & Keith',
     country: 'UAE',
     image: a135860,
@@ -1110,7 +1071,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Charles & Keith',
     country: 'UAE',
     image: a136351,
@@ -1121,7 +1082,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Tommy Hilfiger',
     country: 'UAE',
     image: a124060,
@@ -1132,7 +1093,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Tommy Hilfiger',
     country: 'UAE',
     image: a121027,
@@ -1143,7 +1104,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Tommy Hilfiger',
     country: 'UAE',
     // image: a104453,
@@ -1154,7 +1115,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Tommy Hilfiger',
     country: 'UAE',
     image: a121109,
@@ -1165,7 +1126,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Tommy Hilfiger',
     country: 'UAE',
     image: a128863,
@@ -1176,7 +1137,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Tommy Hilfiger',
     country: 'UAE',
     image: a136757,
@@ -1187,7 +1148,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'assistant store manager ',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a102562,
@@ -1198,7 +1159,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Department Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a103929,
@@ -1209,7 +1170,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Department Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a115995,
@@ -1220,7 +1181,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Department Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a124533,
@@ -1231,7 +1192,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a132427,
@@ -1242,7 +1203,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a137350,
@@ -1253,7 +1214,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a138191,
@@ -1264,7 +1225,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a138190,
@@ -1275,7 +1236,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a138173,
@@ -1286,7 +1247,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a137924,
@@ -1297,10 +1258,10 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
-    // image: a139195,
+    image: a139195,
   },
   {
     id: '107708',
@@ -1308,7 +1269,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Department Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a107708,
@@ -1319,7 +1280,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'LC Waikiki',
     country: 'UAE',
     image: a145342,
@@ -1330,7 +1291,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Department Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'New Yorker',
     country: 'UAE',
     image: a102988,
@@ -1341,7 +1302,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Department Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'New Yorker',
     country: 'UAE',
     image: a105537,
@@ -1352,7 +1313,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'New Yorker',
     country: 'UAE',
     image: a105996,
@@ -1363,7 +1324,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Department Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'New Yorker',
     country: 'UAE',
     image: a125635,
@@ -1374,7 +1335,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'New Yorker',
     country: 'UAE',
     image: a142375,
@@ -1385,7 +1346,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a102922,
@@ -1396,7 +1357,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a106289,
@@ -1407,7 +1368,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a120414,
@@ -1418,7 +1379,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a127702,
@@ -1429,7 +1390,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Area Visual Merchandiser',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a128395,
@@ -1440,7 +1401,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a129080,
@@ -1451,7 +1412,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a129072,
@@ -1462,7 +1423,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a131840,
@@ -1473,7 +1434,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Area Visual Merchandiser',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a136086,
@@ -1484,7 +1445,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a138089,
@@ -1495,7 +1456,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a138088,
@@ -1506,7 +1467,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a138171,
@@ -1517,7 +1478,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a138134,
@@ -1528,7 +1489,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a138941,
@@ -1539,10 +1500,10 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
-    // image: a142063,
+    image: a142063,
   },
   {
     id: '129292',
@@ -1550,7 +1511,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a129292,
@@ -1561,7 +1522,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a129916,
@@ -1572,7 +1533,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a130710,
@@ -1583,7 +1544,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Brand Bazaar',
     country: 'UAE',
     image: a131241,
@@ -1594,7 +1555,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Birkenstock',
     country: 'UAE',
     image: a106147,
@@ -1605,7 +1566,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Birkenstock',
     country: 'UAE',
     image: a114113,
@@ -1616,7 +1577,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Birkenstock',
     country: 'UAE',
     image: a115327,
@@ -1627,7 +1588,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Birkenstock',
     country: 'UAE',
     image: a116846,
@@ -1638,7 +1599,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Birkenstock',
     country: 'UAE',
     image: a121156,
@@ -1649,7 +1610,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Birkenstock',
     country: 'UAE',
     image: a123344,
@@ -1660,7 +1621,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Birkenstock',
     country: 'UAE',
     image: a116917,
@@ -1671,7 +1632,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
     image: a106156,
@@ -1682,7 +1643,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
     image: a121350,
@@ -1693,7 +1654,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athlete Foot',
     country: 'UAE',
     image: a122243,
@@ -1704,10 +1665,10 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
-    // image: a102413,
+    image: a102413,
   },
   {
     id: '135656',
@@ -1715,7 +1676,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
     // image: a135656,
@@ -1726,7 +1687,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
     image: a127222,
@@ -1737,7 +1698,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
     image: a124544,
@@ -1748,7 +1709,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
     image: a136698,
@@ -1759,7 +1720,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'The Athletes Co',
     country: 'UAE',
     image: a106116,
@@ -1770,7 +1731,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a104342,
@@ -1781,7 +1742,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a106966,
@@ -1792,7 +1753,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a102678,
@@ -1803,7 +1764,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a122027,
@@ -1814,7 +1775,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a122182,
@@ -1825,7 +1786,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a123350,
@@ -1836,7 +1797,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a123500,
@@ -1847,7 +1808,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a124786,
@@ -1858,7 +1819,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a129101,
@@ -1869,7 +1830,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a131492,
@@ -1880,7 +1841,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a133275,
@@ -1891,10 +1852,10 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
-    // image: a139822,
+    image: a139822,
   },
   {
     id: '102981',
@@ -1902,7 +1863,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO',
     country: 'UAE',
     image: a102981,
@@ -1913,7 +1874,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO Accessories',
     country: 'UAE',
     image: a103129,
@@ -1924,7 +1885,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO Accessories',
     country: 'UAE',
     image: a103590,
@@ -1935,7 +1896,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO Accessories',
     country: 'UAE',
     image: a103713,
@@ -1946,7 +1907,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO Accessories',
     country: 'UAE',
     image: a105906,
@@ -1957,7 +1918,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'ALDO Accessories',
     country: 'UAE',
     image: a131353,
@@ -1968,7 +1929,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Call It Spring',
     country: 'UAE',
     image: a100438,
@@ -1979,7 +1940,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Call It Spring',
     country: 'UAE',
     // image: a100735,
@@ -1990,7 +1951,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Call It Spring',
     country: 'UAE',
     image: a103085,
@@ -2001,7 +1962,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Senior Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Call It Spring',
     country: 'UAE',
     image: a104804,
@@ -2012,7 +1973,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Sales Associate',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Call It Spring',
     country: 'UAE',
     // image: a112485,
@@ -2023,7 +1984,7 @@ export const data_list = [
     role_type: 'Sales Front Office',
     new_role: 'Assistant Store Manager',
     year: '2023',
-    month: '2023',
+    month: 'June',
     brand: 'Call It Spring',
     country: 'UAE',
     image: a116489,
@@ -2839,7 +2800,7 @@ export const data_list = [
     month: 'June',
     brand: 'Inglot, La Vie en Rose, Rituals',
     country: 'UAE',
-    // image: a100053,
+    image: a100053,
   },
   {
     id: '100224',
@@ -2850,7 +2811,7 @@ export const data_list = [
     month: 'April',
     brand: 'Distribution Centre',
     country: 'UAE',
-    // image: a100224,
+    image: a100224,
   },
   {
     id: '100244',
@@ -2861,7 +2822,7 @@ export const data_list = [
     month: 'April',
     brand: 'Naturalizer',
     country: 'UAE',
-    // image: a100244,
+    image: a100244,
   },
   {
     id: '100310',
@@ -2872,7 +2833,7 @@ export const data_list = [
     month: 'April',
     brand: 'Projects',
     country: 'UAE',
-    // image: a100310,
+    image: a100310,
   },
   {
     id: '100345',
@@ -3834,7 +3795,7 @@ export const data_list = [
     month: 'April',
     brand: 'R&B',
     country: 'UAE',
-    // image: a122469,
+    image: a122469,
   },
   {
     id: '122567',
@@ -4199,7 +4160,7 @@ export const data_list = [
     month: 'April',
     brand: 'Molten Chocolate Cafe',
     country: 'UAE',
-    // image: a126714,
+    image: a126714,
   },
   {
     id: '126776',
@@ -4232,7 +4193,7 @@ export const data_list = [
     month: 'April',
     brand: 'Sushi Library',
     country: 'UAE',
-    // image: a126981,
+    image: a126981,
   },
   {
     id: '127340',
@@ -4276,7 +4237,7 @@ export const data_list = [
     month: 'April',
     brand: 'Coldstone Creamery',
     country: 'UAE',
-    // image: a127870,
+    image: a127870,
   },
   {
     id: '127923',
@@ -4298,7 +4259,7 @@ export const data_list = [
     month: 'April',
     brand: 'Brand Bazaar',
     country: 'UAE',
-    // image: a128187,
+    image: a128187,
   },
   {
     id: '128220',
@@ -4375,7 +4336,7 @@ export const data_list = [
     month: 'March',
     brand: 'Tim Hortons',
     country: 'UAE',
-    // image: a130132,
+    image: a130132,
   },
   {
     id: '130585',
@@ -4573,7 +4534,7 @@ export const data_list = [
     month: 'April',
     brand: 'R&B',
     country: 'UAE',
-    // image: a136121,
+    image: a136121,
   },
   {
     id: '136257',
@@ -4661,7 +4622,7 @@ export const data_list = [
     month: 'April',
     brand: 'LC Waikiki',
     country: 'UAE',
-    // image: a137696,
+    image: a137696,
   },
   {
     id: '137979',
@@ -4705,7 +4666,7 @@ export const data_list = [
     month: 'April',
     brand: 'R&B',
     country: 'UAE',
-    // image: a138345,
+    image: a138345,
   },
   {
     id: '138920',
@@ -4716,7 +4677,7 @@ export const data_list = [
     month: 'April',
     brand: 'Molten Chocolate Cafe',
     country: 'UAE',
-    // image: a138920,
+    image: a138920,
   },
   {
     id: '139226',
@@ -4738,7 +4699,7 @@ export const data_list = [
     month: 'April',
     brand: 'Coldstone Creamery',
     country: 'UAE',
-    // image: a139417,
+    image: a139417,
   },
   {
     id: '140620',
@@ -4760,7 +4721,7 @@ export const data_list = [
     month: 'April',
     brand: 'R&B',
     country: 'UAE',
-    // image: a140952,
+    image: a140952,
   },
   {
     id: '140953',
@@ -4859,7 +4820,7 @@ export const data_list = [
     month: 'April',
     brand: 'Brand Bazaar',
     country: 'UAE',
-    // image: a142776,
+    image: a142776,
   },
   {
     id: '143341',
@@ -4925,7 +4886,7 @@ export const data_list = [
     month: 'April',
     brand: 'R&B',
     country: 'UAE',
-    // image: a143930,
+    image: a143930,
   },
   {
     id: '144121',
@@ -4991,7 +4952,7 @@ export const data_list = [
     month: 'April',
     brand: 'Human Capital',
     country: 'UAE',
-    // image: a146064,
+    image: a146064,
   },
   {
     id: '146490',
@@ -5039,14 +5000,14 @@ export const data_list = [
   },
   {
     id: '149773',
-    name: 'Sabika Fatima .',
+    name: 'Sabika Fatima',
     role_type: 'Sales Back Office',
     new_role: 'Manager - Accounts & Finance',
     year: '2023',
     month: 'May',
     brand: 'Tim Hortons',
     country: 'UAE',
-    // image: a149773,
+    image: a149773,
   },
   {
     id: '149894',
