@@ -349,6 +349,8 @@ import a143930 from './assets/employee_images/143930.jpg';
 import a146064 from './assets/employee_images/146064.jpg';
 import a149773 from './assets/employee_images/149773.jpg';
 //
+import a105511 from './assets/employee_images/105511.webp';
+import a103559 from './assets/employee_images/103559.webp';
 export const data_list = [
   {
     id: '101504',
@@ -458,7 +460,7 @@ export const data_list = [
     month: 'June',
     brand: 'Levis',
     country: 'UAE',
-    // image: a103559,
+    image: a103559,
   },
   {
     id: '128350',
@@ -997,7 +999,7 @@ export const data_list = [
     month: 'June',
     brand: 'Calvin Klein',
     country: 'UAE',
-    // image: a105511,
+    image: a105511,
   },
   {
     id: '124709',
