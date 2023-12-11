@@ -668,6 +668,7 @@ export const data_list = [
     brand: 'Charles & Keith',
     country: 'UAE',
     image: a138037,
+    IJP: true,
   },
   {
     id: '139683',
@@ -788,7 +789,7 @@ export const data_list = [
     month: 'September',
     brand: 'Tim Hortons',
     country: 'KSA',
-    // image: a114858,
+    IJP: true,
   },
   {
     id: '148717',
