@@ -1,353 +1,350 @@
-import a101267 from './assets/employee_images/101267.jpg';
-import a102074 from './assets/employee_images/102074.jpg';
-import a106076 from './assets/employee_images/106076.jpg';
-import a107282 from './assets/employee_images/107282.jpg';
-import a109363 from './assets/employee_images/109363.jpg';
-import a109562 from './assets/employee_images/109562.jpg';
-import a114176 from './assets/employee_images/114176.jpg';
-import a116023 from './assets/employee_images/116023.jpg';
-import a119840 from './assets/employee_images/119840.jpg';
-import a121736 from './assets/employee_images/121736.jpg';
-import a123142 from './assets/employee_images/123142.jpg';
-import a124296 from './assets/employee_images/124296.jpg';
-import a125751 from './assets/employee_images/125751.jpg';
-import a126764 from './assets/employee_images/126764.jpg';
-import a127349 from './assets/employee_images/127349.jpg';
-import a128173 from './assets/employee_images/128173.jpg';
-import a128771 from './assets/employee_images/128771.jpg';
-import a129064 from './assets/employee_images/129064.jpg';
-import a130831 from './assets/employee_images/130831.jpg';
-import a132847 from './assets/employee_images/132847.jpg';
-import a134173 from './assets/employee_images/134173.jpg';
-import a134581 from './assets/employee_images/134581.jpg';
-import a138090 from './assets/employee_images/138090.jpg';
-import a142344 from './assets/employee_images/142344.jpg';
-import a145607 from './assets/employee_images/145607.jpg';
-import a149531 from './assets/employee_images/149531.jpg';
-import a150932 from './assets/employee_images/150932.jpg';
-import a100511 from './assets/employee_images/100511.jpg';
-import a121729 from './assets/employee_images/121729.jpg';
-import a100345 from './assets/employee_images/100345.jpg';
-import a100622 from './assets/employee_images/100622.jpg';
-import a100884 from './assets/employee_images/100884.jpg';
-import a100932 from './assets/employee_images/100932.jpg';
-import a101031 from './assets/employee_images/101031.jpg';
-import a101095 from './assets/employee_images/101095.jpg';
-import a101255 from './assets/employee_images/101255.jpg';
-import a101299 from './assets/employee_images/101299.jpg';
-import a101437 from './assets/employee_images/101437.jpg';
-import a101443 from './assets/employee_images/101443.jpg';
-import a101468 from './assets/employee_images/101468.jpg';
-import a101541 from './assets/employee_images/101541.jpg';
-import a101644 from './assets/employee_images/101644.jpg';
-import a101652 from './assets/employee_images/101652.jpg';
-import a101788 from './assets/employee_images/101788.jpg';
-import a101887 from './assets/employee_images/101887.jpg';
-import a102393 from './assets/employee_images/102393.jpg';
-import a102566 from './assets/employee_images/102566.jpg';
-import a102795 from './assets/employee_images/102795.jpg';
-import a102906 from './assets/employee_images/102906.jpg';
-import a103252 from './assets/employee_images/103252.jpg';
-import a103866 from './assets/employee_images/103866.jpg';
-import a104241 from './assets/employee_images/104241.jpg';
-import a104584 from './assets/employee_images/104584.jpg';
-import a104865 from './assets/employee_images/104865.jpg';
-import a105482 from './assets/employee_images/105482.jpg';
-import a105966 from './assets/employee_images/105966.jpg';
-import a106117 from './assets/employee_images/106117.jpg';
-import a108093 from './assets/employee_images/108093.jpg';
-import a108281 from './assets/employee_images/108281.jpg';
-import a108401 from './assets/employee_images/108401.jpg';
-import a108822 from './assets/employee_images/108822.jpg';
-import a108894 from './assets/employee_images/108894.jpg';
-import a109164 from './assets/employee_images/109164.jpg';
-import a112157 from './assets/employee_images/112157.jpg';
-import a112233 from './assets/employee_images/112233.jpg';
-import a112251 from './assets/employee_images/112251.jpg';
-import a112644 from './assets/employee_images/112644.jpg';
-import a112648 from './assets/employee_images/112648.jpg';
-import a113281 from './assets/employee_images/113281.jpg';
-import a114191 from './assets/employee_images/114191.jpg';
-import a114274 from './assets/employee_images/114274.jpg';
-import a115478 from './assets/employee_images/115478.jpg';
-import a115493 from './assets/employee_images/115493.jpg';
-import a115852 from './assets/employee_images/115852.jpg';
-import a116790 from './assets/employee_images/116790.jpg';
-import a116927 from './assets/employee_images/116927.jpg';
-import a117221 from './assets/employee_images/117221.jpg';
-import a117320 from './assets/employee_images/117320.jpg';
-import a117861 from './assets/employee_images/117861.jpg';
-import a118041 from './assets/employee_images/118041.jpg';
-import a118182 from './assets/employee_images/118182.jpg';
-import a118237 from './assets/employee_images/118237.jpg';
-import a118292 from './assets/employee_images/118292.jpg';
-import a118482 from './assets/employee_images/118482.jpg';
-import a118621 from './assets/employee_images/118621.jpg';
-import a118745 from './assets/employee_images/118745.jpg';
-import a119426 from './assets/employee_images/119426.jpg';
-import a119817 from './assets/employee_images/119817.jpg';
-import a120232 from './assets/employee_images/120232.jpg';
-import a120240 from './assets/employee_images/120240.jpg';
-import a120244 from './assets/employee_images/120244.jpg';
-import a120346 from './assets/employee_images/120346.jpg';
-import a120371 from './assets/employee_images/120371.jpg';
-import a120698 from './assets/employee_images/120698.jpg';
-import a120793 from './assets/employee_images/120793.jpg';
-import a120994 from './assets/employee_images/120994.jpg';
-import a121219 from './assets/employee_images/121219.jpg';
-import a121447 from './assets/employee_images/121447.jpg';
-import a121992 from './assets/employee_images/121992.jpg';
-import a121997 from './assets/employee_images/121997.jpg';
-import a122567 from './assets/employee_images/122567.jpg';
-import a123016 from './assets/employee_images/123016.jpg';
-import a123125 from './assets/employee_images/123125.jpg';
-import a123130 from './assets/employee_images/123130.jpg';
-import a123504 from './assets/employee_images/123504.jpg';
-import a123901 from './assets/employee_images/123901.jpg';
-import a124014 from './assets/employee_images/124014.jpg';
-import a124066 from './assets/employee_images/124066.jpg';
-import a124178 from './assets/employee_images/124178.jpg';
-import a124294 from './assets/employee_images/124294.jpg';
-import a124335 from './assets/employee_images/124335.jpg';
-import a124339 from './assets/employee_images/124339.jpg';
-import a124560 from './assets/employee_images/124560.jpg';
-import a124815 from './assets/employee_images/124815.jpg';
-import a125064 from './assets/employee_images/125064.jpg';
-import a125159 from './assets/employee_images/125159.jpg';
-import a125250 from './assets/employee_images/125250.jpg';
-import a125320 from './assets/employee_images/125320.jpg';
-import a125373 from './assets/employee_images/125373.jpg';
-import a125621 from './assets/employee_images/125621.jpg';
-import a125775 from './assets/employee_images/125775.jpg';
-import a126219 from './assets/employee_images/126219.jpg';
-import a126560 from './assets/employee_images/126560.jpg';
-import a126563 from './assets/employee_images/126563.jpg';
-import a126600 from './assets/employee_images/126600.jpg';
-import a126776 from './assets/employee_images/126776.jpg';
-import a126924 from './assets/employee_images/126924.jpg';
-import a127340 from './assets/employee_images/127340.jpg';
-import a127473 from './assets/employee_images/127473.jpg';
-import a127723 from './assets/employee_images/127723.jpg';
-import a127923 from './assets/employee_images/127923.jpg';
-import a128220 from './assets/employee_images/128220.jpg';
-import a128448 from './assets/employee_images/128448.jpg';
-import a128807 from './assets/employee_images/128807.jpg';
-import a129273 from './assets/employee_images/129273.jpg';
-import a129345 from './assets/employee_images/129345.jpg';
-import a129663 from './assets/employee_images/129663.jpg';
-import a130585 from './assets/employee_images/130585.jpg';
-import a130683 from './assets/employee_images/130683.jpg';
-import a132363 from './assets/employee_images/132363.jpg';
-import a133016 from './assets/employee_images/133016.jpg';
-import a133288 from './assets/employee_images/133288.jpg';
-import a133404 from './assets/employee_images/133404.jpg';
-import a133876 from './assets/employee_images/133876.jpg';
-import a134545 from './assets/employee_images/134545.jpg';
-import a135630 from './assets/employee_images/135630.jpg';
-import a135696 from './assets/employee_images/135696.jpg';
-import a135820 from './assets/employee_images/135820.jpg';
-import a135823 from './assets/employee_images/135823.jpg';
-import a135918 from './assets/employee_images/135918.jpg';
-import a136060 from './assets/employee_images/136060.jpg';
-import a136075 from './assets/employee_images/136075.jpg';
-import a136076 from './assets/employee_images/136076.jpg';
-import a136257 from './assets/employee_images/136257.jpg';
-import a136513 from './assets/employee_images/136513.jpg';
-import a136573 from './assets/employee_images/136573.jpg';
-import a136838 from './assets/employee_images/136838.jpg';
-import a137097 from './assets/employee_images/137097.jpg';
-import a137416 from './assets/employee_images/137416.jpg';
-import a137476 from './assets/employee_images/137476.jpg';
-import a138110 from './assets/employee_images/138110.jpg';
-import a138270 from './assets/employee_images/138270.jpg';
-import a139226 from './assets/employee_images/139226.jpg';
-import a140620 from './assets/employee_images/140620.jpg';
-import a140953 from './assets/employee_images/140953.jpg';
-import a142101 from './assets/employee_images/142101.jpg';
-import a142391 from './assets/employee_images/142391.jpg';
-import a142468 from './assets/employee_images/142468.jpg';
-import a142572 from './assets/employee_images/142572.jpg';
-import a142645 from './assets/employee_images/142645.jpg';
-import a142682 from './assets/employee_images/142682.jpg';
-import a143341 from './assets/employee_images/143341.jpg';
-import a143519 from './assets/employee_images/143519.jpg';
-import a143618 from './assets/employee_images/143618.jpg';
-import a143733 from './assets/employee_images/143733.jpg';
-import a144121 from './assets/employee_images/144121.jpg';
-import a144441 from './assets/employee_images/144441.jpg';
-import a144928 from './assets/employee_images/144928.jpg';
-import a146490 from './assets/employee_images/146490.jpg';
-import a146975 from './assets/employee_images/146975.jpg';
-import a147165 from './assets/employee_images/147165.jpg';
-import a147778 from './assets/employee_images/147778.jpg';
-import a149894 from './assets/employee_images/149894.jpg';
-import a159631 from './assets/employee_images/159631.jpg';
+import a101267 from './assets/employee_images/101267.webp';
+import a102074 from './assets/employee_images/102074.webp';
+import a106076 from './assets/employee_images/106076.webp';
+import a107282 from './assets/employee_images/107282.webp';
+import a109363 from './assets/employee_images/109363.webp';
+import a109562 from './assets/employee_images/109562.webp';
+import a114176 from './assets/employee_images/114176.webp';
+import a116023 from './assets/employee_images/116023.webp';
+import a119840 from './assets/employee_images/119840.webp';
+import a121736 from './assets/employee_images/121736.webp';
+import a123142 from './assets/employee_images/123142.webp';
+import a124296 from './assets/employee_images/124296.webp';
+import a125751 from './assets/employee_images/125751.webp';
+import a126764 from './assets/employee_images/126764.webp';
+import a127349 from './assets/employee_images/127349.webp';
+import a128173 from './assets/employee_images/128173.webp';
+import a128771 from './assets/employee_images/128771.webp';
+import a129064 from './assets/employee_images/129064.webp';
+import a130831 from './assets/employee_images/130831.webp';
+import a132847 from './assets/employee_images/132847.webp';
+import a134173 from './assets/employee_images/134173.webp';
+import a134581 from './assets/employee_images/134581.webp';
+import a138090 from './assets/employee_images/138090.webp';
+import a142344 from './assets/employee_images/142344.webp';
+import a145607 from './assets/employee_images/145607.webp';
+import a149531 from './assets/employee_images/149531.webp';
+import a150932 from './assets/employee_images/150932.webp';
+import a100511 from './assets/employee_images/100511.webp';
+import a121729 from './assets/employee_images/121729.webp';
+import a100345 from './assets/employee_images/100345.webp';
+import a100622 from './assets/employee_images/100622.webp';
+import a100884 from './assets/employee_images/100884.webp';
+import a100932 from './assets/employee_images/100932.webp';
+import a101031 from './assets/employee_images/101031.webp';
+import a101095 from './assets/employee_images/101095.webp';
+import a101255 from './assets/employee_images/101255.webp';
+import a101299 from './assets/employee_images/101299.webp';
+import a101437 from './assets/employee_images/101437.webp';
+import a101443 from './assets/employee_images/101443.webp';
+import a101468 from './assets/employee_images/101468.webp';
+import a101541 from './assets/employee_images/101541.webp';
+import a101644 from './assets/employee_images/101644.webp';
+import a101652 from './assets/employee_images/101652.webp';
+import a101788 from './assets/employee_images/101788.webp';
+import a101887 from './assets/employee_images/101887.webp';
+import a102393 from './assets/employee_images/102393.webp';
+import a102566 from './assets/employee_images/102566.webp';
+import a102795 from './assets/employee_images/102795.webp';
+import a102906 from './assets/employee_images/102906.webp';
+import a103252 from './assets/employee_images/103252.webp';
+import a103866 from './assets/employee_images/103866.webp';
+import a104241 from './assets/employee_images/104241.webp';
+import a104584 from './assets/employee_images/104584.webp';
+import a104865 from './assets/employee_images/104865.webp';
+import a105482 from './assets/employee_images/105482.webp';
+import a105966 from './assets/employee_images/105966.webp';
+import a106117 from './assets/employee_images/106117.webp';
+import a108093 from './assets/employee_images/108093.webp';
+import a108281 from './assets/employee_images/108281.webp';
+import a108401 from './assets/employee_images/108401.webp';
+import a108822 from './assets/employee_images/108822.webp';
+import a108894 from './assets/employee_images/108894.webp';
+import a109164 from './assets/employee_images/109164.webp';
+import a112157 from './assets/employee_images/112157.webp';
+import a112233 from './assets/employee_images/112233.webp';
+import a112251 from './assets/employee_images/112251.webp';
+import a112644 from './assets/employee_images/112644.webp';
+import a112648 from './assets/employee_images/112648.webp';
+import a113281 from './assets/employee_images/113281.webp';
+import a114191 from './assets/employee_images/114191.webp';
+import a114274 from './assets/employee_images/114274.webp';
+import a115478 from './assets/employee_images/115478.webp';
+import a115493 from './assets/employee_images/115493.webp';
+import a115852 from './assets/employee_images/115852.webp';
+import a116790 from './assets/employee_images/116790.webp';
+import a116927 from './assets/employee_images/116927.webp';
+import a117221 from './assets/employee_images/117221.webp';
+import a117320 from './assets/employee_images/117320.webp';
+import a117861 from './assets/employee_images/117861.webp';
+import a118041 from './assets/employee_images/118041.webp';
+import a118182 from './assets/employee_images/118182.webp';
+import a118237 from './assets/employee_images/118237.webp';
+import a118292 from './assets/employee_images/118292.webp';
+import a118482 from './assets/employee_images/118482.webp';
+import a118621 from './assets/employee_images/118621.webp';
+import a118745 from './assets/employee_images/118745.webp';
+import a119426 from './assets/employee_images/119426.webp';
+import a119817 from './assets/employee_images/119817.webp';
+import a120232 from './assets/employee_images/120232.webp';
+import a120240 from './assets/employee_images/120240.webp';
+import a120244 from './assets/employee_images/120244.webp';
+import a120346 from './assets/employee_images/120346.webp';
+import a120371 from './assets/employee_images/120371.webp';
+import a120698 from './assets/employee_images/120698.webp';
+import a120793 from './assets/employee_images/120793.webp';
+import a120994 from './assets/employee_images/120994.webp';
+import a121219 from './assets/employee_images/121219.webp';
+import a121447 from './assets/employee_images/121447.webp';
+import a121992 from './assets/employee_images/121992.webp';
+import a121997 from './assets/employee_images/121997.webp';
+import a122567 from './assets/employee_images/122567.webp';
+import a123016 from './assets/employee_images/123016.webp';
+import a123125 from './assets/employee_images/123125.webp';
+import a123130 from './assets/employee_images/123130.webp';
+import a123504 from './assets/employee_images/123504.webp';
+import a123901 from './assets/employee_images/123901.webp';
+import a124014 from './assets/employee_images/124014.webp';
+import a124066 from './assets/employee_images/124066.webp';
+import a124294 from './assets/employee_images/124294.webp';
+import a124335 from './assets/employee_images/124335.webp';
+import a124339 from './assets/employee_images/124339.webp';
+import a124560 from './assets/employee_images/124560.webp';
+import a124815 from './assets/employee_images/124815.webp';
+import a125064 from './assets/employee_images/125064.webp';
+import a125159 from './assets/employee_images/125159.webp';
+import a125250 from './assets/employee_images/125250.webp';
+import a125320 from './assets/employee_images/125320.webp';
+import a125373 from './assets/employee_images/125373.webp';
+import a125621 from './assets/employee_images/125621.webp';
+import a125775 from './assets/employee_images/125775.webp';
+import a126219 from './assets/employee_images/126219.webp';
+import a126560 from './assets/employee_images/126560.webp';
+import a126563 from './assets/employee_images/126563.webp';
+import a126600 from './assets/employee_images/126600.webp';
+import a126776 from './assets/employee_images/126776.webp';
+import a126924 from './assets/employee_images/126924.webp';
+import a127340 from './assets/employee_images/127340.webp';
+import a127473 from './assets/employee_images/127473.webp';
+import a127723 from './assets/employee_images/127723.webp';
+import a127923 from './assets/employee_images/127923.webp';
+import a128220 from './assets/employee_images/128220.webp';
+import a128448 from './assets/employee_images/128448.webp';
+import a128807 from './assets/employee_images/128807.webp';
+import a129273 from './assets/employee_images/129273.webp';
+import a129345 from './assets/employee_images/129345.webp';
+import a129663 from './assets/employee_images/129663.webp';
+import a130585 from './assets/employee_images/130585.webp';
+import a130683 from './assets/employee_images/130683.webp';
+import a132363 from './assets/employee_images/132363.webp';
+import a133016 from './assets/employee_images/133016.webp';
+import a133288 from './assets/employee_images/133288.webp';
+import a133404 from './assets/employee_images/133404.webp';
+import a133876 from './assets/employee_images/133876.webp';
+import a134545 from './assets/employee_images/134545.webp';
+import a135630 from './assets/employee_images/135630.webp';
+import a135696 from './assets/employee_images/135696.webp';
+import a135820 from './assets/employee_images/135820.webp';
+import a135823 from './assets/employee_images/135823.webp';
+import a135918 from './assets/employee_images/135918.webp';
+import a136060 from './assets/employee_images/136060.webp';
+import a136075 from './assets/employee_images/136075.webp';
+import a136076 from './assets/employee_images/136076.webp';
+import a136257 from './assets/employee_images/136257.webp';
+import a136513 from './assets/employee_images/136513.webp';
+import a136573 from './assets/employee_images/136573.webp';
+import a136838 from './assets/employee_images/136838.webp';
+import a137097 from './assets/employee_images/137097.webp';
+import a137416 from './assets/employee_images/137416.webp';
+import a137476 from './assets/employee_images/137476.webp';
+import a138110 from './assets/employee_images/138110.webp';
+import a138270 from './assets/employee_images/138270.webp';
+import a139226 from './assets/employee_images/139226.webp';
+import a140620 from './assets/employee_images/140620.webp';
+import a140953 from './assets/employee_images/140953.webp';
+import a142101 from './assets/employee_images/142101.webp';
+import a142391 from './assets/employee_images/142391.webp';
+import a142468 from './assets/employee_images/142468.webp';
+import a142572 from './assets/employee_images/142572.webp';
+import a142645 from './assets/employee_images/142645.webp';
+import a142682 from './assets/employee_images/142682.webp';
+import a143341 from './assets/employee_images/143341.webp';
+import a143519 from './assets/employee_images/143519.webp';
+import a143618 from './assets/employee_images/143618.webp';
+import a143733 from './assets/employee_images/143733.webp';
+import a144121 from './assets/employee_images/144121.webp';
+import a144441 from './assets/employee_images/144441.webp';
+import a144928 from './assets/employee_images/144928.webp';
+import a146490 from './assets/employee_images/146490.webp';
+import a146975 from './assets/employee_images/146975.webp';
+import a147165 from './assets/employee_images/147165.webp';
+import a147778 from './assets/employee_images/147778.webp';
+import a149894 from './assets/employee_images/149894.webp';
+import a159631 from './assets/employee_images/159631.webp';
 
-import a136409 from './assets/employee_images/136409.jpg';
-import a120247 from './assets/employee_images/120247.jpg';
-import a135860 from './assets/employee_images/135860.jpg';
-import a136351 from './assets/employee_images/136351.jpg';
-import a124060 from './assets/employee_images/124060.jpg';
-import a121027 from './assets/employee_images/121027.jpg';
-import a121109 from './assets/employee_images/121109.jpg';
-import a128863 from './assets/employee_images/128863.jpg';
-import a136757 from './assets/employee_images/136757.jpg';
-import a102562 from './assets/employee_images/102562.jpg';
-import a103929 from './assets/employee_images/103929.jpg';
-import a115995 from './assets/employee_images/115995.jpg';
-import a124533 from './assets/employee_images/124533.jpg';
-import a132427 from './assets/employee_images/132427.jpg';
-import a137350 from './assets/employee_images/137350.jpg';
-import a138191 from './assets/employee_images/138191.jpg';
-import a138190 from './assets/employee_images/138190.jpg';
-import a138173 from './assets/employee_images/138173.jpg';
-import a137924 from './assets/employee_images/137924.jpg';
-import a107708 from './assets/employee_images/107708.jpg';
-import a145342 from './assets/employee_images/145342.jpg';
-import a102988 from './assets/employee_images/102988.jpg';
-import a105537 from './assets/employee_images/105537.jpg';
-import a105996 from './assets/employee_images/105996.jpg';
-import a125635 from './assets/employee_images/125635.jpg';
-import a142375 from './assets/employee_images/142375.jpg';
-import a102922 from './assets/employee_images/102922.jpg';
-import a106289 from './assets/employee_images/106289.jpg';
-import a120414 from './assets/employee_images/120414.jpg';
-import a127702 from './assets/employee_images/127702.jpg';
-import a128395 from './assets/employee_images/128395.jpg';
-import a129080 from './assets/employee_images/129080.jpg';
-import a129072 from './assets/employee_images/129072.jpg';
-import a131840 from './assets/employee_images/131840.jpg';
-import a136086 from './assets/employee_images/136086.jpg';
-import a138089 from './assets/employee_images/138089.jpg';
-import a138088 from './assets/employee_images/138088.jpg';
-import a138171 from './assets/employee_images/138171.jpg';
-import a138134 from './assets/employee_images/138134.jpg';
-import a138941 from './assets/employee_images/138941.jpg';
-import a129292 from './assets/employee_images/129292.jpg';
-import a129916 from './assets/employee_images/129916.jpg';
-import a130710 from './assets/employee_images/130710.jpg';
-import a131241 from './assets/employee_images/131241.jpg';
-import a106147 from './assets/employee_images/106147.jpg';
-import a114113 from './assets/employee_images/114113.jpg';
-import a115327 from './assets/employee_images/115327.jpg';
-import a116846 from './assets/employee_images/116846.jpg';
-import a121156 from './assets/employee_images/121156.jpg';
-import a123344 from './assets/employee_images/123344.jpg';
-import a116917 from './assets/employee_images/116917.jpg';
-import a106156 from './assets/employee_images/106156.jpg';
-import a121350 from './assets/employee_images/121350.jpg';
-import a122243 from './assets/employee_images/122243.jpg';
-import a127222 from './assets/employee_images/127222.jpg';
-import a124544 from './assets/employee_images/124544.jpg';
-import a136698 from './assets/employee_images/136698.jpg';
-import a106116 from './assets/employee_images/106116.jpg';
-import a104342 from './assets/employee_images/104342.jpg';
-import a106966 from './assets/employee_images/106966.jpg';
-import a102678 from './assets/employee_images/102678.jpg';
-import a122027 from './assets/employee_images/122027.jpg';
-import a122182 from './assets/employee_images/122182.jpg';
-import a123350 from './assets/employee_images/123350.jpg';
-import a123500 from './assets/employee_images/123500.jpg';
-import a124786 from './assets/employee_images/124786.jpg';
-import a129101 from './assets/employee_images/129101.jpg';
-import a131492 from './assets/employee_images/131492.jpg';
-import a133275 from './assets/employee_images/133275.jpg';
-import a102981 from './assets/employee_images/102981.jpg';
-import a103129 from './assets/employee_images/103129.jpg';
-import a103590 from './assets/employee_images/103590.jpg';
-import a103713 from './assets/employee_images/103713.jpg';
-import a105906 from './assets/employee_images/105906.jpg';
-import a131353 from './assets/employee_images/131353.jpg';
-import a100438 from './assets/employee_images/100438.jpg';
-import a103085 from './assets/employee_images/103085.jpg';
-import a104804 from './assets/employee_images/104804.jpg';
-import a116489 from './assets/employee_images/116489.jpg';
-import a101504 from './assets/employee_images/101504.jpg';
-import a101316 from './assets/employee_images/101316.jpg';
-import a104897 from './assets/employee_images/104897.jpg';
-import a101162 from './assets/employee_images/101162.jpg';
-import a105640 from './assets/employee_images/105640.jpg';
-import a124552 from './assets/employee_images/124552.jpg';
-import a104912 from './assets/employee_images/104912.jpg';
-import a105050 from './assets/employee_images/105050.jpg';
-import a105071 from './assets/employee_images/105071.jpg';
-import a128350 from './assets/employee_images/128350.jpg';
-import a122758 from './assets/employee_images/122758.jpg';
-import a136428 from './assets/employee_images/136428.jpg';
-import a114017 from './assets/employee_images/114017.jpg';
-import a122569 from './assets/employee_images/122569.jpg';
-import a124395 from './assets/employee_images/124395.jpg';
-import a101632 from './assets/employee_images/101632.jpg';
-import a102329 from './assets/employee_images/102329.jpg';
-import a105568 from './assets/employee_images/105568.jpg';
-import a105696 from './assets/employee_images/105696.jpg';
-import a111975 from './assets/employee_images/111975.jpg';
-import a115510 from './assets/employee_images/115510.jpg';
-import a119129 from './assets/employee_images/119129.jpg';
-import a121306 from './assets/employee_images/121306.jpg';
-import a123897 from './assets/employee_images/123897.jpg';
-import a136296 from './assets/employee_images/136296.jpg';
-import a138066 from './assets/employee_images/138066.jpg';
-import a138555 from './assets/employee_images/138555.jpg';
-import a144006 from './assets/employee_images/144006.jpg';
-import a144124 from './assets/employee_images/144124.jpg';
-import a145098 from './assets/employee_images/145098.jpg';
-import a145099 from './assets/employee_images/145099.jpg';
-import a102923 from './assets/employee_images/102923.jpg';
-import a125600 from './assets/employee_images/125600.jpg';
-import a127974 from './assets/employee_images/127974.jpg';
-import a128007 from './assets/employee_images/128007.jpg';
-import a128346 from './assets/employee_images/128346.jpg';
-import a136759 from './assets/employee_images/136759.jpg';
-import a136760 from './assets/employee_images/136760.jpg';
-import a136821 from './assets/employee_images/136821.jpg';
-import a136886 from './assets/employee_images/136886.jpg';
-import a137394 from './assets/employee_images/137394.jpg';
-import a100637 from './assets/employee_images/100637.jpg';
-import a105878 from './assets/employee_images/105878.jpg';
-import a124846 from './assets/employee_images/124846.jpg';
-import a128213 from './assets/employee_images/128213.jpg';
-import a128923 from './assets/employee_images/128923.jpg';
-import a144611 from './assets/employee_images/144611.jpg';
-import a104715 from './assets/employee_images/104715.jpg';
-import a105981 from './assets/employee_images/105981.jpg';
-import a145843 from './assets/employee_images/145843.jpg';
-import a112125 from './assets/employee_images/112125.jpg';
-import a113294 from './assets/employee_images/113294.jpg';
-import a119073 from './assets/employee_images/119073.jpg';
-import a131372 from './assets/employee_images/131372.jpg';
-import a124709 from './assets/employee_images/124709.jpg';
-import a125781 from './assets/employee_images/125781.jpg';
-import a136256 from './assets/employee_images/136256.jpg';
+import a136409 from './assets/employee_images/136409.webp';
+import a120247 from './assets/employee_images/120247.webp';
+import a135860 from './assets/employee_images/135860.webp';
+import a136351 from './assets/employee_images/136351.webp';
+import a121027 from './assets/employee_images/121027.webp';
+import a121109 from './assets/employee_images/121109.webp';
+import a128863 from './assets/employee_images/128863.webp';
+import a136757 from './assets/employee_images/136757.webp';
+import a102562 from './assets/employee_images/102562.webp';
+import a103929 from './assets/employee_images/103929.webp';
+import a115995 from './assets/employee_images/115995.webp';
+import a124533 from './assets/employee_images/124533.webp';
+import a132427 from './assets/employee_images/132427.webp';
+import a137350 from './assets/employee_images/137350.webp';
+import a138191 from './assets/employee_images/138191.webp';
+import a138190 from './assets/employee_images/138190.webp';
+import a138173 from './assets/employee_images/138173.webp';
+import a137924 from './assets/employee_images/137924.webp';
+import a107708 from './assets/employee_images/107708.webp';
+import a145342 from './assets/employee_images/145342.webp';
+import a102988 from './assets/employee_images/102988.webp';
+import a105537 from './assets/employee_images/105537.webp';
+import a105996 from './assets/employee_images/105996.webp';
+import a125635 from './assets/employee_images/125635.webp';
+import a142375 from './assets/employee_images/142375.webp';
+import a102922 from './assets/employee_images/102922.webp';
+import a106289 from './assets/employee_images/106289.webp';
+import a120414 from './assets/employee_images/120414.webp';
+import a127702 from './assets/employee_images/127702.webp';
+import a128395 from './assets/employee_images/128395.webp';
+import a129080 from './assets/employee_images/129080.webp';
+import a129072 from './assets/employee_images/129072.webp';
+import a131840 from './assets/employee_images/131840.webp';
+import a136086 from './assets/employee_images/136086.webp';
+import a138089 from './assets/employee_images/138089.webp';
+import a138088 from './assets/employee_images/138088.webp';
+import a138171 from './assets/employee_images/138171.webp';
+import a138134 from './assets/employee_images/138134.webp';
+import a138941 from './assets/employee_images/138941.webp';
+import a129292 from './assets/employee_images/129292.webp';
+import a129916 from './assets/employee_images/129916.webp';
+import a130710 from './assets/employee_images/130710.webp';
+import a131241 from './assets/employee_images/131241.webp';
+import a106147 from './assets/employee_images/106147.webp';
+import a114113 from './assets/employee_images/114113.webp';
+import a116846 from './assets/employee_images/116846.webp';
+import a121156 from './assets/employee_images/121156.webp';
+import a123344 from './assets/employee_images/123344.webp';
+import a116917 from './assets/employee_images/116917.webp';
+import a106156 from './assets/employee_images/106156.webp';
+import a121350 from './assets/employee_images/121350.webp';
+import a122243 from './assets/employee_images/122243.webp';
+import a127222 from './assets/employee_images/127222.webp';
+import a124544 from './assets/employee_images/124544.webp';
+import a136698 from './assets/employee_images/136698.webp';
+import a106116 from './assets/employee_images/106116.webp';
+import a104342 from './assets/employee_images/104342.webp';
+import a106966 from './assets/employee_images/106966.webp';
+import a102678 from './assets/employee_images/102678.webp';
+import a122027 from './assets/employee_images/122027.webp';
+import a122182 from './assets/employee_images/122182.webp';
+import a123350 from './assets/employee_images/123350.webp';
+import a123500 from './assets/employee_images/123500.webp';
+import a124786 from './assets/employee_images/124786.webp';
+import a129101 from './assets/employee_images/129101.webp';
+import a131492 from './assets/employee_images/131492.webp';
+import a133275 from './assets/employee_images/133275.webp';
+import a102981 from './assets/employee_images/102981.webp';
+import a103129 from './assets/employee_images/103129.webp';
+import a103590 from './assets/employee_images/103590.webp';
+import a103713 from './assets/employee_images/103713.webp';
+import a105906 from './assets/employee_images/105906.webp';
+import a131353 from './assets/employee_images/131353.webp';
+import a100438 from './assets/employee_images/100438.webp';
+import a103085 from './assets/employee_images/103085.webp';
+import a104804 from './assets/employee_images/104804.webp';
+import a116489 from './assets/employee_images/116489.webp';
+import a101504 from './assets/employee_images/101504.webp';
+import a101316 from './assets/employee_images/101316.webp';
+import a104897 from './assets/employee_images/104897.webp';
+import a101162 from './assets/employee_images/101162.webp';
+import a105640 from './assets/employee_images/105640.webp';
+import a124552 from './assets/employee_images/124552.webp';
+import a104912 from './assets/employee_images/104912.webp';
+import a105050 from './assets/employee_images/105050.webp';
+import a105071 from './assets/employee_images/105071.webp';
+import a128350 from './assets/employee_images/128350.webp';
+import a122758 from './assets/employee_images/122758.webp';
+import a136428 from './assets/employee_images/136428.webp';
+import a114017 from './assets/employee_images/114017.webp';
+import a122569 from './assets/employee_images/122569.webp';
+import a124395 from './assets/employee_images/124395.webp';
+import a101632 from './assets/employee_images/101632.webp';
+import a102329 from './assets/employee_images/102329.webp';
+import a105568 from './assets/employee_images/105568.webp';
+import a105696 from './assets/employee_images/105696.webp';
+import a111975 from './assets/employee_images/111975.webp';
+import a115510 from './assets/employee_images/115510.webp';
+import a119129 from './assets/employee_images/119129.webp';
+import a121306 from './assets/employee_images/121306.webp';
+import a123897 from './assets/employee_images/123897.webp';
+import a136296 from './assets/employee_images/136296.webp';
+import a138066 from './assets/employee_images/138066.webp';
+import a138555 from './assets/employee_images/138555.webp';
+import a144006 from './assets/employee_images/144006.webp';
+import a144124 from './assets/employee_images/144124.webp';
+import a145098 from './assets/employee_images/145098.webp';
+import a145099 from './assets/employee_images/145099.webp';
+import a102923 from './assets/employee_images/102923.webp';
+import a125600 from './assets/employee_images/125600.webp';
+import a127974 from './assets/employee_images/127974.webp';
+import a128007 from './assets/employee_images/128007.webp';
+import a128346 from './assets/employee_images/128346.webp';
+import a136759 from './assets/employee_images/136759.webp';
+import a136760 from './assets/employee_images/136760.webp';
+import a136821 from './assets/employee_images/136821.webp';
+import a136886 from './assets/employee_images/136886.webp';
+import a137394 from './assets/employee_images/137394.webp';
+import a100637 from './assets/employee_images/100637.webp';
+import a105878 from './assets/employee_images/105878.webp';
+import a124846 from './assets/employee_images/124846.webp';
+import a128213 from './assets/employee_images/128213.webp';
+import a128923 from './assets/employee_images/128923.webp';
+import a144611 from './assets/employee_images/144611.webp';
+import a104715 from './assets/employee_images/104715.webp';
+import a105981 from './assets/employee_images/105981.webp';
+import a145843 from './assets/employee_images/145843.webp';
+import a112125 from './assets/employee_images/112125.webp';
+import a113294 from './assets/employee_images/113294.webp';
+import a119073 from './assets/employee_images/119073.webp';
+import a131372 from './assets/employee_images/131372.webp';
+import a124709 from './assets/employee_images/124709.webp';
+import a125781 from './assets/employee_images/125781.webp';
+import a136256 from './assets/employee_images/136256.webp';
 // ////////////////////////
-import a100053 from './assets/employee_images/100053.jpg';
-import a100224 from './assets/employee_images/100224.jpg';
-import a100244 from './assets/employee_images/100244.jpg';
-import a100310 from './assets/employee_images/100310.jpg';
-import a102413 from './assets/employee_images/102413.jpg';
-import a116370 from './assets/employee_images/116370.jpg';
-import a122469 from './assets/employee_images/122469.jpg';
-import a126714 from './assets/employee_images/126714.jpg';
-import a126981 from './assets/employee_images/126981.jpg';
-import a127870 from './assets/employee_images/127870.jpg';
-import a128187 from './assets/employee_images/128187.jpg';
-import a130132 from './assets/employee_images/130132.jpg';
-import a136121 from './assets/employee_images/136121.jpg';
-import a137597 from './assets/employee_images/137597.jpg';
-import a137696 from './assets/employee_images/137696.jpg';
-import a138345 from './assets/employee_images/138345.jpg';
-import a138860 from './assets/employee_images/138860.jpg';
-import a138920 from './assets/employee_images/138920.jpg';
-import a139043 from './assets/employee_images/139043.jpg';
-import a139195 from './assets/employee_images/139195.jpg';
-import a139417 from './assets/employee_images/139417.jpg';
-import a139822 from './assets/employee_images/139822.jpg';
-import a140952 from './assets/employee_images/140952.jpg';
-import a142063 from './assets/employee_images/142063.jpg';
-import a142776 from './assets/employee_images/142776.jpg';
-import a143930 from './assets/employee_images/143930.jpg';
-import a146064 from './assets/employee_images/146064.jpg';
-import a149773 from './assets/employee_images/149773.jpg';
+import a100053 from './assets/employee_images/100053.webp';
+import a100224 from './assets/employee_images/100224.webp';
+import a100244 from './assets/employee_images/100244.webp';
+import a100310 from './assets/employee_images/100310.webp';
+import a102413 from './assets/employee_images/102413.webp';
+import a116370 from './assets/employee_images/116370.webp';
+import a122469 from './assets/employee_images/122469.webp';
+import a126714 from './assets/employee_images/126714.webp';
+import a126981 from './assets/employee_images/126981.webp';
+import a127870 from './assets/employee_images/127870.webp';
+import a128187 from './assets/employee_images/128187.webp';
+import a130132 from './assets/employee_images/130132.webp';
+import a136121 from './assets/employee_images/136121.webp';
+import a137597 from './assets/employee_images/137597.webp';
+import a137696 from './assets/employee_images/137696.webp';
+import a138345 from './assets/employee_images/138345.webp';
+import a138860 from './assets/employee_images/138860.webp';
+import a138920 from './assets/employee_images/138920.webp';
+import a139043 from './assets/employee_images/139043.webp';
+import a139195 from './assets/employee_images/139195.webp';
+import a139417 from './assets/employee_images/139417.webp';
+import a139822 from './assets/employee_images/139822.webp';
+import a140952 from './assets/employee_images/140952.webp';
+import a142063 from './assets/employee_images/142063.webp';
+import a142776 from './assets/employee_images/142776.webp';
+import a143930 from './assets/employee_images/143930.webp';
+import a146064 from './assets/employee_images/146064.webp';
+import a149773 from './assets/employee_images/149773.webp';
 //
 import a105511 from './assets/employee_images/105511.webp';
 import a103559 from './assets/employee_images/103559.webp';
@@ -357,7 +354,6 @@ import a104151 from './assets/employee_images/104151.webp';
 import a104591 from './assets/employee_images/104591.webp';
 import a106091 from './assets/employee_images/106091.webp';
 import a114065 from './assets/employee_images/114065.webp';
-// import a110148 from './assets/employee_images/110148.webp';
 import a119742 from './assets/employee_images/119742.webp';
 import a121121 from './assets/employee_images/121121.webp';
 import a121722 from './assets/employee_images/121722.webp';
@@ -371,7 +367,6 @@ import a136533 from './assets/employee_images/136533.webp';
 import a136711 from './assets/employee_images/136711.webp';
 import a136811 from './assets/employee_images/136811.webp';
 import a136972 from './assets/employee_images/136972.webp';
-// import a137927 from './assets/employee_images/137927.webp';
 import a138037 from './assets/employee_images/138037.webp';
 import a139683 from './assets/employee_images/139683.webp';
 import a140255 from './assets/employee_images/140255.webp';
@@ -383,27 +378,20 @@ import a142873 from './assets/employee_images/142873.webp';
 import a145200 from './assets/employee_images/145200.webp';
 import a145750 from './assets/employee_images/145750.webp';
 import a146630 from './assets/employee_images/146630.webp';
-// import a114858 from './assets/employee_images/114858.webp';
 import a148717 from './assets/employee_images/148717.webp';
 import a152384 from './assets/employee_images/152384.webp';
-// import a129033 from './assets/employee_images/129033.webp';
 import a157027 from './assets/employee_images/157027.webp';
 import a139410 from './assets/employee_images/139410.webp';
 import a150614 from './assets/employee_images/150614.webp';
 import a150704 from './assets/employee_images/150704.webp';
-// import a150375 from './assets/employee_images/150375.webp';
 import a153411 from './assets/employee_images/153411.webp';
 import a112321 from './assets/employee_images/112321.webp';
-// import a109777 from './assets/employee_images/109777.webp';
 import a107429 from './assets/employee_images/107429.webp';
 import a107468 from './assets/employee_images/107468.webp';
-// import a149797 from './assets/employee_images/149797.webp';
 import a130444 from './assets/employee_images/130444.webp';
 import a131490 from './assets/employee_images/131490.webp';
 import a108114 from './assets/employee_images/108114.webp';
 import a108368 from './assets/employee_images/108368.webp';
-// import a123051 from './assets/employee_images/123051.webp';
-// import a112548 from './assets/employee_images/112548.webp';
 import a112558 from './assets/employee_images/112558.webp';
 import a113277 from './assets/employee_images/113277.webp';
 import a114529 from './assets/employee_images/114529.webp';
@@ -413,7 +401,6 @@ import a116499 from './assets/employee_images/116499.webp';
 import a117493 from './assets/employee_images/117493.webp';
 import a118310 from './assets/employee_images/118310.webp';
 import a123880 from './assets/employee_images/123880.webp';
-// import a136728 from './assets/employee_images/136728.webp';
 import a130050 from './assets/employee_images/130050.webp';
 import a134817 from './assets/employee_images/134817.webp';
 import a137004 from './assets/employee_images/137004.webp';
@@ -422,21 +409,263 @@ import a137423 from './assets/employee_images/137423.webp';
 import a141352 from './assets/employee_images/141352.webp';
 import a141776 from './assets/employee_images/141776.webp';
 import a145847 from './assets/employee_images/145847.webp';
-// import a109560 from './assets/employee_images/109560.webp';
-// import a109561 from './assets/employee_images/109561.webp';
-// import a109566 from './assets/employee_images/109566.webp';
 import a141729 from './assets/employee_images/141729.webp';
 import a114130 from './assets/employee_images/114130.webp';
-// import a110205 from './assets/employee_images/110205.webp';
-// import a110438 from './assets/employee_images/110438.webp';
-// import a110464 from './assets/employee_images/110464.webp';
 import a147774 from './assets/employee_images/147774.webp';
-// import a110995 from './assets/employee_images/110995.webp';
 import a155938 from './assets/employee_images/155938.webp';
-// import a113608 from './assets/employee_images/113608.webp';
 import a107341 from './assets/employee_images/107341.webp';
 import a107393 from './assets/employee_images/107393.webp';
 import a107586 from './assets/employee_images/107586.webp';
+////////////////////////////////////////////////////////////////////////////////
+import a100213 from './assets/employee_images/100213.webp'
+import a100306 from './assets/employee_images/100306.webp'
+import a100595 from './assets/employee_images/100595.webp'
+import a100771 from './assets/employee_images/100771.webp'
+import a101348 from './assets/employee_images/101348.webp'
+import a101560 from './assets/employee_images/101560.webp'
+import a102292 from './assets/employee_images/102292.webp'
+import a103607 from './assets/employee_images/103607.webp'
+import a103670 from './assets/employee_images/103670.webp'
+import a103751 from './assets/employee_images/103751.webp'
+import a103836 from './assets/employee_images/103836.webp'
+import a105018 from './assets/employee_images/105018.webp'
+import a105142 from './assets/employee_images/105142.webp'
+import a105275 from './assets/employee_images/105275.webp'
+import a105569 from './assets/employee_images/105569.webp'
+import a106458 from './assets/employee_images/106458.webp'
+import a107070 from './assets/employee_images/107070.webp'
+import a107135 from './assets/employee_images/107135.webp'
+import a107217 from './assets/employee_images/107217.webp'
+import a107676 from './assets/employee_images/107676.webp'
+import a107984 from './assets/employee_images/107984.webp'
+import a107991 from './assets/employee_images/107991.webp'
+import a108031 from './assets/employee_images/108031.webp'
+import a108103 from './assets/employee_images/108103.webp'
+import a108135 from './assets/employee_images/108135.webp'
+import a108203 from './assets/employee_images/108203.webp'
+import a108205 from './assets/employee_images/108205.webp'
+import a108216 from './assets/employee_images/108216.webp'
+import a108220 from './assets/employee_images/108220.webp'
+import a108221 from './assets/employee_images/108221.webp'
+import a108232 from './assets/employee_images/108232.webp'
+import a108265 from './assets/employee_images/108265.webp'
+import a108276 from './assets/employee_images/108276.webp'
+import a108285 from './assets/employee_images/108285.webp'
+import a108409 from './assets/employee_images/108409.webp'
+import a108452 from './assets/employee_images/108452.webp'
+import a108457 from './assets/employee_images/108457.webp'
+import a108477 from './assets/employee_images/108477.webp'
+import a108479 from './assets/employee_images/108479.webp'
+import a108491 from './assets/employee_images/108491.webp'
+import a108501 from './assets/employee_images/108501.webp'
+import a108508 from './assets/employee_images/108508.webp'
+import a108610 from './assets/employee_images/108610.webp'
+import a108612 from './assets/employee_images/108612.webp'
+import a108625 from './assets/employee_images/108625.webp'
+import a108674 from './assets/employee_images/108674.webp'
+import a108683 from './assets/employee_images/108683.webp'
+import a108686 from './assets/employee_images/108686.webp'
+import a108697 from './assets/employee_images/108697.webp'
+import a108719 from './assets/employee_images/108719.webp'
+import a108730 from './assets/employee_images/108730.webp'
+import a108742 from './assets/employee_images/108742.webp'
+import a108769 from './assets/employee_images/108769.webp'
+import a108799 from './assets/employee_images/108799.webp'
+import a108810 from './assets/employee_images/108810.webp'
+import a108816 from './assets/employee_images/108816.webp'
+import a108818 from './assets/employee_images/108818.webp'
+import a108824 from './assets/employee_images/108824.webp'
+import a108838 from './assets/employee_images/108838.webp'
+import a108878 from './assets/employee_images/108878.webp'
+import a108886 from './assets/employee_images/108886.webp'
+import a108896 from './assets/employee_images/108896.webp'
+import a108902 from './assets/employee_images/108902.webp'
+import a108915 from './assets/employee_images/108915.webp'
+import a108930 from './assets/employee_images/108930.webp'
+import a108998 from './assets/employee_images/108998.webp'
+import a109035 from './assets/employee_images/109035.webp'
+import a109036 from './assets/employee_images/109036.webp'
+import a109760 from './assets/employee_images/109760.webp'
+import a110473 from './assets/employee_images/110473.webp'
+import a111315 from './assets/employee_images/111315.webp'
+import a112083 from './assets/employee_images/112083.webp'
+import a112671 from './assets/employee_images/112671.webp'
+import a112768 from './assets/employee_images/112768.webp'
+import a112846 from './assets/employee_images/112846.webp'
+import a113156 from './assets/employee_images/113156.webp'
+import a114592 from './assets/employee_images/114592.webp'
+import a114771 from './assets/employee_images/114771.webp'
+import a114774 from './assets/employee_images/114774.webp'
+import a115292 from './assets/employee_images/115292.webp'
+import a115327 from './assets/employee_images/115327.webp'
+import a115334 from './assets/employee_images/115334.webp'
+import a115735 from './assets/employee_images/115735.webp'
+import a116400 from './assets/employee_images/116400.webp'
+import a116683 from './assets/employee_images/116683.webp'
+import a116968 from './assets/employee_images/116968.webp'
+import a116973 from './assets/employee_images/116973.webp'
+import a117021 from './assets/employee_images/117021.webp'
+import a117668 from './assets/employee_images/117668.webp'
+import a117904 from './assets/employee_images/117904.webp'
+import a117905 from './assets/employee_images/117905.webp'
+import a118307 from './assets/employee_images/118307.webp'
+import a118446 from './assets/employee_images/118446.webp'
+import a118917 from './assets/employee_images/118917.webp'
+import a118919 from './assets/employee_images/118919.webp'
+import a118920 from './assets/employee_images/118920.webp'
+import a118923 from './assets/employee_images/118923.webp'
+import a118925 from './assets/employee_images/118925.webp'
+import a118928 from './assets/employee_images/118928.webp'
+import a119118 from './assets/employee_images/119118.webp'
+import a119135 from './assets/employee_images/119135.webp'
+import a119836 from './assets/employee_images/119836.webp'
+import a120031 from './assets/employee_images/120031.webp'
+import a120353 from './assets/employee_images/120353.webp'
+import a120699 from './assets/employee_images/120699.webp'
+import a121212 from './assets/employee_images/121212.webp'
+import a121390 from './assets/employee_images/121390.webp'
+import a121392 from './assets/employee_images/121392.webp'
+import a121788 from './assets/employee_images/121788.webp'
+import a121989 from './assets/employee_images/121989.webp'
+import a122020 from './assets/employee_images/122020.webp'
+import a123049 from './assets/employee_images/123049.webp'
+import a123109 from './assets/employee_images/123109.webp'
+import a123155 from './assets/employee_images/123155.webp'
+import a123157 from './assets/employee_images/123157.webp'
+import a123161 from './assets/employee_images/123161.webp'
+import a123321 from './assets/employee_images/123321.webp'
+import a123508 from './assets/employee_images/123508.webp'
+import a123887 from './assets/employee_images/123887.webp'
+import a123921 from './assets/employee_images/123921.webp'
+import a124030 from './assets/employee_images/124030.webp'
+import a124048 from './assets/employee_images/124048.webp'
+import a124060 from './assets/employee_images/124060.webp'
+import a124162 from './assets/employee_images/124162.webp'
+import a124167 from './assets/employee_images/124167.webp'
+import a124178 from './assets/employee_images/124178.webp'
+import a124196 from './assets/employee_images/124196.webp'
+import a124686 from './assets/employee_images/124686.webp'
+import a124814 from './assets/employee_images/124814.webp'
+import a124832 from './assets/employee_images/124832.webp'
+import a124849 from './assets/employee_images/124849.webp'
+import a124853 from './assets/employee_images/124853.webp'
+import a125194 from './assets/employee_images/125194.webp'
+import a125298 from './assets/employee_images/125298.webp'
+import a125396 from './assets/employee_images/125396.webp'
+import a125404 from './assets/employee_images/125404.webp'
+import a125432 from './assets/employee_images/125432.webp'
+import a125450 from './assets/employee_images/125450.webp'
+import a125789 from './assets/employee_images/125789.webp'
+import a125792 from './assets/employee_images/125792.webp'
+import a125793 from './assets/employee_images/125793.webp'
+import a125809 from './assets/employee_images/125809.webp'
+import a126071 from './assets/employee_images/126071.webp'
+import a126110 from './assets/employee_images/126110.webp'
+import a126113 from './assets/employee_images/126113.webp'
+import a126225 from './assets/employee_images/126225.webp'
+import a126341 from './assets/employee_images/126341.webp'
+import a126353 from './assets/employee_images/126353.webp'
+import a126506 from './assets/employee_images/126506.webp'
+import a126564 from './assets/employee_images/126564.webp'
+import a126573 from './assets/employee_images/126573.webp'
+import a126580 from './assets/employee_images/126580.webp'
+import a126732 from './assets/employee_images/126732.webp'
+import a126734 from './assets/employee_images/126734.webp'
+import a126863 from './assets/employee_images/126863.webp'
+import a127267 from './assets/employee_images/127267.webp'
+import a127379 from './assets/employee_images/127379.webp'
+import a127423 from './assets/employee_images/127423.webp'
+import a127655 from './assets/employee_images/127655.webp'
+import a127848 from './assets/employee_images/127848.webp'
+import a127970 from './assets/employee_images/127970.webp'
+import a128181 from './assets/employee_images/128181.webp'
+import a128182 from './assets/employee_images/128182.webp'
+import a128268 from './assets/employee_images/128268.webp'
+import a128269 from './assets/employee_images/128269.webp'
+import a128445 from './assets/employee_images/128445.webp'
+import a128503 from './assets/employee_images/128503.webp'
+import a128876 from './assets/employee_images/128876.webp'
+import a129158 from './assets/employee_images/129158.webp'
+import a130628 from './assets/employee_images/130628.webp'
+import a131305 from './assets/employee_images/131305.webp'
+import a131602 from './assets/employee_images/131602.webp'
+import a132616 from './assets/employee_images/132616.webp'
+import a133389 from './assets/employee_images/133389.webp'
+import a133423 from './assets/employee_images/133423.webp'
+import a135001 from './assets/employee_images/135001.webp'
+import a135621 from './assets/employee_images/135621.webp'
+import a135640 from './assets/employee_images/135640.webp'
+import a135689 from './assets/employee_images/135689.webp'
+import a135751 from './assets/employee_images/135751.webp'
+import a135789 from './assets/employee_images/135789.webp'
+import a135879 from './assets/employee_images/135879.webp'
+import a135972 from './assets/employee_images/135972.webp'
+import a136292 from './assets/employee_images/136292.webp'
+import a136293 from './assets/employee_images/136293.webp'
+import a136368 from './assets/employee_images/136368.webp'
+import a136391 from './assets/employee_images/136391.webp'
+import a136401 from './assets/employee_images/136401.webp'
+import a136427 from './assets/employee_images/136427.webp'
+import a136441 from './assets/employee_images/136441.webp'
+import a136475 from './assets/employee_images/136475.webp'
+import a136655 from './assets/employee_images/136655.webp'
+import a136993 from './assets/employee_images/136993.webp'
+import a137002 from './assets/employee_images/137002.webp'
+import a137249 from './assets/employee_images/137249.webp'
+import a137395 from './assets/employee_images/137395.webp'
+import a137892 from './assets/employee_images/137892.webp'
+import a137930 from './assets/employee_images/137930.webp'
+import a138001 from './assets/employee_images/138001.webp'
+import a138043 from './assets/employee_images/138043.webp'
+import a138059 from './assets/employee_images/138059.webp'
+import a138098 from './assets/employee_images/138098.webp'
+import a138177 from './assets/employee_images/138177.webp'
+import a138255 from './assets/employee_images/138255.webp'
+import a138509 from './assets/employee_images/138509.webp'
+import a138700 from './assets/employee_images/138700.webp'
+import a138723 from './assets/employee_images/138723.webp'
+import a138729 from './assets/employee_images/138729.webp'
+import a138789 from './assets/employee_images/138789.webp'
+import a138799 from './assets/employee_images/138799.webp'
+import a138802 from './assets/employee_images/138802.webp'
+import a138820 from './assets/employee_images/138820.webp'
+import a138822 from './assets/employee_images/138822.webp'
+import a138823 from './assets/employee_images/138823.webp'
+import a138880 from './assets/employee_images/138880.webp'
+import a139031 from './assets/employee_images/139031.webp'
+import a139062 from './assets/employee_images/139062.webp'
+import a139394 from './assets/employee_images/139394.webp'
+import a139516 from './assets/employee_images/139516.webp'
+import a139518 from './assets/employee_images/139518.webp'
+import a139638 from './assets/employee_images/139638.webp'
+import a139699 from './assets/employee_images/139699.webp'
+import a140333 from './assets/employee_images/140333.webp'
+import a140351 from './assets/employee_images/140351.webp'
+import a140407 from './assets/employee_images/140407.webp'
+import a141197 from './assets/employee_images/141197.webp'
+import a142629 from './assets/employee_images/142629.webp'
+import a143492 from './assets/employee_images/143492.webp'
+import a143582 from './assets/employee_images/143582.webp'
+import a144524 from './assets/employee_images/144524.webp'
+import a144572 from './assets/employee_images/144572.webp'
+import a145344 from './assets/employee_images/145344.webp'
+import a145617 from './assets/employee_images/145617.webp'
+import a145735 from './assets/employee_images/145735.webp'
+import a145818 from './assets/employee_images/145818.webp'
+import a146150 from './assets/employee_images/146150.webp'
+import a146457 from './assets/employee_images/146457.webp'
+import a146549 from './assets/employee_images/146549.webp'
+import a148570 from './assets/employee_images/148570.webp'
+import a149183 from './assets/employee_images/149183.webp'
+import a150027 from './assets/employee_images/150027.webp'
+import a150548 from './assets/employee_images/150548.webp'
+import a151336 from './assets/employee_images/151336.webp'
+import a154857 from './assets/employee_images/154857.webp'
+import a155096 from './assets/employee_images/155096.webp'
+import a155504 from './assets/employee_images/155504.webp'
+import a155756 from './assets/employee_images/155756.webp'
+import a155944 from './assets/employee_images/155944.webp'
+import a157208 from './assets/employee_images/157208.webp'
 export const data_list = [
   {
     id: '101831',
@@ -13421,4 +13650,262 @@ export const data_list = [
     brand: 'Dune',
     country: 'KSA',
   },
+
+
+
+
+
+
+
+
+
+  {id:'100213',name:'Yusuf Ali Solanki',role_type:'Distribution Centre',new_role:'Assistant Manager - DC',year:'2023',month:'October',brand:'Central Logistics',country:'UAE',image:a100213},
+{id:'100306',name:'Siyadh Valiyakath Muhammed Ali',role_type:'Support Function',new_role:'Transport Supervisor',year:'2023',month:'October',brand:'Central Logistics',country:'UAE',image:a100306},
+{id:'100595',name:'Alberto Matias Alba',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Nine West',country:'UAE',image:a100595},
+{id:'100771',name:'Abelardo II Hernandez',role_type:'Sales Back Office',new_role:'Assistant Manager - Events',year:'2023',month:'October',brand:'Little Red Box',country:'UAE',image:a100771},
+{id:'101348',name:'Deepak Kumar Saini',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a101348},
+{id:'101560',name:'Mahesh Vrujlal Makwana',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a101560},
+{id:'102292',name:'Nirvair Singh',role_type:'Distribution Centre',new_role:'Forklift Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a102292},
+{id:'103607',name:'Mohammad Ishteyaque',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'The Childrens Place',country:'UAE',image:a103607},
+{id:'103670',name:'Muhammad Usman Butt',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Beverly Hills Polo Club',country:'UAE',image:a103670},
+{id:'103751',name:'Priscilla Younus',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Inglot',country:'UAE',image:a103751},
+{id:'103836',name:'Noelyn Marucut',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a103836},
+{id:'105018',name:'Iqbal Liyakath Ali',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a105018},
+{id:'105142',name:'Jerick Andal Macatangay',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a105142},
+{id:'105275',name:'Dinesh Neupane',role_type:'Distribution Centre',new_role:'Forklift Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a105275},
+{id:'105569',name:'Anand Pradhan',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Skechers',country:'UAE',image:a105569},
+{id:'106458',name:'Anter Mahmoud',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Dune',country:'UAE',image:a106458},
+{id:'107070',name:'Haider  Ali',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Skechers',country:'UAE',image:a107070},
+{id:'107135',name:'Manoj Bhandari',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a107135},
+{id:'107217',name:'Anil Thakarar',role_type:'Support Function',new_role:'Executive - Logistics',year:'2023',month:'November',brand:'Central Logistics',country:'UAE',image:a107217},
+{id:'107676',name:'Hasan Hasan Ali Hasan',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Crocs',country:'UAE',image:a107676},
+{id:'107984',name:'Anson Niroula',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Inglot',country:'UAE',image:a107984},
+{id:'107991',name:'Ali Abubakar Ahmed',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'ALDO',country:'UAE',image:a107991},
+{id:'108031',name:'Ajmal Muhamed',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a108031},
+{id:'108103',name:'Bernardo Jr. Vidad',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a108103},
+{id:'108135',name:'Bernadette Pescador',role_type:'Sales Front Office',new_role:'Senior Visual Merchandiser',year:'2023',month:'October',brand:'Charles & Keith',country:'UAE',image:a108135},
+{id:'108203',name:'Deepa Budhathoki Thakurishah',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'Cool Club',country:'UAE',image:a108203},
+{id:'108205',name:'Dechen Lhamo',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a108205},
+{id:'108216',name:'Diwas Chettri',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a108216},
+{id:'108220',name:'Elsie Ingel',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Naturalizer',country:'UAE',image:a108220},
+{id:'108221',name:'Erwin Mercado',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a108221},
+{id:'108232',name:'Edwin Quitain',role_type:'Sales Front Office',new_role:'Area Visual Merchandiser',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a108232},
+{id:'108265',name:'Govind Bhandari',role_type:'Sales Back Office',new_role:'Sales Manager',year:'2023',month:'October',brand:'Regional Office',country:'UAE',image:a108265},
+{id:'108276',name:'Ganesh Joshi',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a108276},
+{id:'108285',name:'Gyanendra Gurung',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a108285},
+{id:'108409',name:'Jeimy Dela Cruz',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a108409},
+{id:'108452',name:'Kaustab Sarkar',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a108452},
+{id:'108457',name:'Krishna Prsd Dulal',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Birkenstock',country:'UAE',image:a108457},
+{id:'108477',name:'Melody Gara',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a108477},
+{id:'108479',name:'Laurence Lim',role_type:'Sales Front Office',new_role:'Make Up Artist',year:'2023',month:'October',brand:'Inglot',country:'UAE',image:a108479},
+{id:'108491',name:'Marilyn Valguna',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Birkenstock',country:'UAE',image:a108491},
+{id:'108501',name:'Mary Ann Medina',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a108501},
+{id:'108508',name:'Mohamed Risni  Leemagahakotuwe Gedara Mohammad Haniffa',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Naturalizer',country:'UAE',image:a108508},
+{id:'108610',name:'Mary Joyce Palacio',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Herschel',country:'UAE',image:a108610},
+{id:'108612',name:'Mercy Ngina Musyoka',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a108612},
+{id:'108625',name:'Noel Lubaton',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Charles & Keith',country:'UAE',image:a108625},
+{id:'108674',name:'Prakash Dahal',role_type:'Sales Back Office',new_role:'Sales Manager',year:'2023',month:'October',brand:'Regional Office',country:'UAE',image:a108674},
+{id:'108683',name:'Purshottam Ojha',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'ALDO',country:'UAE',image:a108683},
+{id:'108686',name:'Prince Raj Kumar',role_type:'Sales Back Office',new_role:'Assistant Manager - Sales',year:'2023',month:'October',brand:'Regional Office',country:'UAE',image:a108686},
+{id:'108697',name:'Prithi Man Waiba',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a108697},
+{id:'108719',name:'Rajendra Gurung',role_type:'Sales Back Office',new_role:'Sales Manager',year:'2023',month:'October',brand:'Regional Office',country:'UAE',image:a108719},
+{id:'108730',name:'Ryan Aganan',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Hush Puppies',country:'UAE',image:a108730},
+{id:'108742',name:'Roshan Dhakal',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Nine West',country:'UAE',image:a108742},
+{id:'108769',name:'Ronadette Asis',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a108769},
+{id:'108799',name:'Rosni Lama',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Nine West',country:'UAE',image:a108799},
+{id:'108810',name:'Raki Blon',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a108810},
+{id:'108816',name:'Romelyn Culala',role_type:'Sales Front Office',new_role:'Senior Visual Merchandiser',year:'2023',month:'October',brand:'Aeropostale',country:'UAE',image:a108816},
+{id:'108818',name:'Rocelle Jimenez',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Call It Spring',country:'UAE',image:a108818},
+{id:'108824',name:'Sanjay Rai',role_type:'Sales Back Office',new_role:'Sales Manager',year:'2023',month:'October',brand:'Regional Office',country:'UAE',image:a108824},
+{id:'108838',name:'Santi Lama',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Inglot',country:'UAE',image:a108838},
+{id:'108878',name:'Sharmaigne Leal',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Hush Puppies',country:'UAE',image:a108878},
+{id:'108886',name:'Sherlyn Timbal',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a108886},
+{id:'108896',name:'Sony Gurung',role_type:'Sales Front Office',new_role:'Make Up Artist',year:'2023',month:'October',brand:'Inglot',country:'UAE',image:a108896},
+{id:'108902',name:'Dhalea Dagondon',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a108902},
+{id:'108915',name:'Sunil Rasaily',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'The Childrens Place',country:'UAE',image:a108915},
+{id:'108930',name:'Sujan Subba',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Aeropostale',country:'UAE',image:a108930},
+{id:'108998',name:'Yanzee Sherpa',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a108998},
+{id:'109035',name:'Jamal Hussain',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Skechers',country:'UAE',image:a109035},
+{id:'109036',name:'Mohammed Farhad Alam',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a109036},
+{id:'109760',name:'Quadeer Ansari',role_type:'Support Function',new_role:'Assistant Manager - Internal Audit',year:'2023',month:'October',brand:'Tim Hortons',country:'UAE',image:a109760},
+{id:'110473',name:'Mohamed Risthaan Uwaisdeen',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Birkenstock',country:'UAE',image:a110473},
+{id:'111315',name:'Umair Akhlaq',role_type:'Distribution Centre',new_role:'Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a111315},
+{id:'112083',name:'Philip Alden Ramos Pantig',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a112083},
+{id:'112671',name:'Ashish Kumar Panda',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'ALDO',country:'UAE',image:a112671},
+{id:'112768',name:'Subash Khadka',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a112768},
+{id:'112846',name:'Abdullah Al Fayed',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'ALDO',country:'UAE',image:a112846},
+{id:'113156',name:'Nimesh Saroha',role_type:'Sales Back Office',new_role:'Operations Manager',year:'2023',month:'October',brand:'Jamies Italian',country:'UAE',image:a113156},
+{id:'114592',name:'Jeny Cunanan',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a114592},
+{id:'114771',name:'Ryan Llave',role_type:'Sales Front Office',new_role:'Senior Visual Merchandiser',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a114771},
+{id:'114774',name:'Ohoud almantakh',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a114774},
+{id:'115292',name:'Jay Mark Ibarra',role_type:'Sales Front Office',new_role:'Area Visual Merchandiser',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a115292},
+{id:'115327',name:'Rajesh Limbu',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Birkenstock',country:'UAE',image:a115327},
+{id:'115334',name:'Marizen Munoz',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'ALDO Accessories',country:'UAE',image:a115334},
+{id:'115735',name:'Mamun Rashid Khan',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'Cool Club',country:'UAE',image:a115735},
+{id:'116400',name:'Ganga Maya Shrestha',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a116400},
+{id:'116683',name:'Abdul Rahman Syed',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a116683},
+{id:'116968',name:'Shanika Nishadi Garusinghe Juwan Hewage',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki Modest',country:'UAE',image:a116968},
+{id:'116973',name:'Amit Kumar Prasad',role_type:'Sales Back Office',new_role:'Sales Manager',year:'2023',month:'October',brand:'Regional Office',country:'UAE',image:a116973},
+{id:'117021',name:'Sohaib Amin',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'TOMS',country:'UAE',image:a117021},
+{id:'117668',name:'Bhanumati Jaising Sagathia',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a117668},
+{id:'117904',name:'Phub Lhamo',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a117904},
+{id:'117905',name:'Rinzin Wangmo',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a117905},
+{id:'118307',name:'Rohit Kumar Biswakarma',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Dollar Plus',country:'UAE',image:a118307},
+{id:'118446',name:'Dibya Chettri',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a118446},
+{id:'118917',name:'Abhishek Thakur',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a118917},
+{id:'118919',name:'Chandani Koirala',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Crocs',country:'UAE',image:a118919},
+{id:'118920',name:'Ei Moe Swe',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a118920},
+{id:'118923',name:'Johanne Utala',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a118923},
+{id:'118925',name:'Mohd Zeeshan Mohd Usman',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a118925},
+{id:'118928',name:'Rajesh Kumar Pal',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a118928},
+{id:'119118',name:'Suraj Thakur',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'XIMIVOGUE',country:'UAE',image:a119118},
+{id:'119135',name:'Hana Goshu Kibret',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Calvin Klein',country:'UAE',image:a119135},
+{id:'119836',name:'Ziaulhaq Jalaly',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a119836},
+{id:'120031',name:'Salah Saleh Al Wahaibi',role_type:'Ecommerce',new_role:'Executive - Customer Service ',year:'2023',month:'October',brand:'6th Street',country:'UAE',image:a120031},
+{id:'120353',name:'Joan Castor',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a120353},
+{id:'120699',name:'Lelkada Lokuge Lal Rohana Samarasinghe',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Lakeland',country:'UAE',image:a120699},
+{id:'121212',name:'Ravinder Kumar Jagdish Chand',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'Adidas',country:'UAE',image:a121212},
+{id:'121390',name:'Ambika Gurung',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a121390},
+{id:'121392',name:'Aneesh Abdul Azees',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a121392},
+{id:'121788',name:'Nikhil Thakur Jagdeep Singh',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a121788},
+{id:'121989',name:'Kiran Chhetri',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Aeropostale',country:'UAE',image:a121989},
+{id:'122020',name:'Mark Edward Gocio',role_type:'Sales Front Office',new_role:'Senior Visual Merchandiser',year:'2023',month:'October',brand:'HEMA',country:'UAE',image:a122020},
+{id:'123049',name:'Samten Lama',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a123049},
+{id:'123109',name:'Aqeeb Jawaid',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a123109},
+{id:'123155',name:'Nanjita Rai',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a123155},
+{id:'123157',name:'Nitesh Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Adidas',country:'UAE',image:a123157},
+{id:'123161',name:'Yugen Lama',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a123161},
+{id:'123321',name:'Thilini Bagya Wijesinghe Weesin Mudiyanselage',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Naturalizer',country:'UAE',image:a123321},
+{id:'123508',name:'Hyder Bin Osman Maqavi',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a123508},
+{id:'123887',name:'Lalita Ale Magar',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'La Vie En Rose',country:'UAE',image:a123887},
+{id:'123921',name:'Muhsin Mishari',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'R&B',country:'UAE',image:a123921},
+{id:'124030',name:'Aftab Ahmad Imtiyaj Ahmad',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'XIMIVOGUE',country:'UAE',image:a124030},
+{id:'124048',name:'Hussein Naser',role_type:'Sales Back Office',new_role:'Category Manager',year:'2023',month:'November',brand:'Moreschi',country:'UAE',image:a124048},
+{id:'124060',name:'Shaira Norelly Novia Jaravata',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a124060},
+{id:'124162',name:'Annie Rose Tungol Pantalunan',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'HEMA',country:'UAE',image:a124162},
+{id:'124167',name:'Madushika Nilani Samarawickrama',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'TOMS',country:'UAE',image:a124167},
+{id:'124178',name:'Zahid Aslam',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a124178},
+{id:'124196',name:'Saurabh Bhasin',role_type:'Sales Back Office',new_role:'Sales Manager',year:'2023',month:'October',brand:'Regional Office',country:'UAE',image:a124196},
+{id:'124686',name:'Abigail Joy Flores Reyes',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a124686},
+{id:'124814',name:'Ommar Hassan Dimasangkay Ampatuan',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'XIMIVOGUE',country:'UAE',image:a124814},
+{id:'124832',name:'Chabodi Nimanthika Balapitiyage',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'HEMA',country:'UAE',image:a124832},
+{id:'124849',name:'Rajan Karki',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a124849},
+{id:'124853',name:'Robert Jay Gacusan Ancheta',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Tommy Hilfiger',country:'UAE',image:a124853},
+{id:'125194',name:'Amjad Muhamed',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a125194},
+{id:'125298',name:'Harjit Singh',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'October',brand:'Transport',country:'UAE',image:a125298},
+{id:'125396',name:'Ritika Dotel',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a125396},
+{id:'125404',name:'Hadeer Awad Asy Zahran',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Dune',country:'UAE',image:a125404},
+{id:'125432',name:'Celeste Daculan',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a125432},
+{id:'125450',name:'Mansoor Bin Mahmood',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a125450},
+{id:'125789',name:'Bishnu Kumar Thapa',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a125789},
+{id:'125792',name:'Diana Joy Aguila Manalo',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a125792},
+{id:'125793',name:'Eljoy Mansay Alinsub',role_type:'Sales Front Office',new_role:'Senior Visual Merchandiser',year:'2023',month:'October',brand:'Crocs',country:'UAE',image:a125793},
+{id:'125809',name:'Pappu Kumar Baitha',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a125809},
+{id:'126071',name:'Aman Khan',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Ardene',country:'UAE',image:a126071},
+{id:'126110',name:'Sagar Poudel',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'LC Waikiki',country:'UAE',image:a126110},
+{id:'126113',name:'Jackson Fernandez Solis',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a126113},
+{id:'126225',name:'Ashruti Singh Shivraj Singh',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a126225},
+{id:'126341',name:'Jeewan Gurung',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a126341},
+{id:'126353',name:'Vinod Chetry Mon Bahadur Chetry',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a126353},
+{id:'126506',name:'Sekh Zafar Iqubal Sekh Salman',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a126506},
+{id:'126564',name:'Hasta Bahadur Gurung',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a126564},
+{id:'126573',name:'Paras Kumar Ramadhar Sharma',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a126573},
+{id:'126580',name:'Subhash Chandra Sharma',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a126580},
+{id:'126732',name:'Mehran Ali Ahmed',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a126732},
+{id:'126734',name:'Thurein Kaung Chit',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a126734},
+{id:'126863',name:'Kunal Chhetri Goflu Chhetri',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a126863},
+{id:'127267',name:'Mohamed Safan Mohamed Uresh',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a127267},
+{id:'127379',name:'Vikram  Budhathoki',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'November',brand:'R&B',country:'UAE',image:a127379},
+{id:'127423',name:'Manita Khadka',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a127423},
+{id:'127655',name:'Priyanka Mukhia',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a127655},
+{id:'127848',name:'Kalpana Chaudhary',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a127848},
+{id:'127970',name:'John Kennedy Rembulat Montuya',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Charles & Keith',country:'UAE',image:a127970},
+{id:'128181',name:'Rachid Salhi',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Birkenstock',country:'UAE',image:a128181},
+{id:'128182',name:'Vinay Mulgaonkar',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a128182},
+{id:'128268',name:'Manzoor Ali Abdul Kader',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Dollar Plus',country:'UAE',image:a128268},
+{id:'128269',name:'Mary Grace Penaverde Yatco',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a128269},
+{id:'128445',name:'Ashok Khatri',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a128445},
+{id:'128503',name:'Shakaoat Hossain',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a128503},
+{id:'128876',name:'Christine Tan Losa',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'The Athletes Co',country:'UAE',image:a128876},
+{id:'129158',name:'Pravakar Pradhan',role_type:'Sales Front Office',new_role:'Supervisor',year:'2023',month:'October',brand:'Molten Chocolate Cafe',country:'UAE',image:a129158},
+{id:'130628',name:'Makbool Ahamad Samsul Hoda',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a130628},
+{id:'131305',name:'Sangam Gurung',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Birkenstock',country:'UAE',image:a131305},
+{id:'131602',name:'Monisha Nair',role_type:'Sales Back Office',new_role:'Senior Executive - Marketing',year:'2023',month:'November',brand:'Marketing',country:'UAE',image:a131602},
+{id:'132616',name:'Faizan Baig',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a132616},
+{id:'133389',name:'Mathanath Manickavel',role_type:'Distribution Centre',new_role:'Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a133389},
+{id:'133423',name:'Sivanna Thimmappa',role_type:'Ecommerce',new_role:'Senior Executive - Accounts',year:'2023',month:'October',brand:'6th Street',country:'UAE',image:a133423},
+{id:'135001',name:'Sushma Giri Bhattarai',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a135001},
+{id:'135621',name:'Harleen Kaur',role_type:'Sales Back Office',new_role:'Key Account Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a135621},
+{id:'135640',name:'Ishandeep Gurung',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Skechers',country:'UAE',image:a135640},
+{id:'135689',name:'Amit Tamang',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a135689},
+{id:'135751',name:'Hamza Zrid',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Charles & Keith',country:'UAE',image:a135751},
+{id:'135789',name:'Samuel Smith',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Skechers',country:'UAE',image:a135789},
+{id:'135879',name:'Mohammed Arifur Rahman',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a135879},
+{id:'135972',name:'Sha Alom',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a135972},
+{id:'136292',name:'Shankar Raj Giri',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Adidas',country:'UAE',image:a136292},
+{id:'136293',name:'Sabed Miya',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'CCC',country:'UAE',image:a136293},
+{id:'136368',name:'Man Kumari Tamang Waiba',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a136368},
+{id:'136391',name:'Suman Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a136391},
+{id:'136401',name:'Subin Sunar',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a136401},
+{id:'136427',name:'Shadab Mohammad Shehzad',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a136427},
+{id:'136441',name:'SALBORO SHALSY',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Birkenstock',country:'UAE',image:a136441},
+{id:'136475',name:'Manikanta Ravi',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a136475},
+{id:'136655',name:'Remson Pinpin Cabayao',role_type:'Sales Front Office',new_role:'Area Visual Merchandiser',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a136655},
+{id:'136993',name:'Sandipa Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a136993},
+{id:'137002',name:'Quinel Formoso Doltra',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a137002},
+{id:'137249',name:'Faiza Tikhemirine',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a137249},
+{id:'137395',name:'Mohammed Irfan Mohammed Rahman',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a137395},
+{id:'137892',name:'Som Maya Pradhan',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a137892},
+{id:'137930',name:'Deepak Kanojia',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a137930},
+{id:'138001',name:'Fe Lumactod Pineda',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'TOMS',country:'UAE',image:a138001},
+{id:'138043',name:'Analiza Yabut',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Inglot',country:'UAE',image:a138043},
+{id:'138059',name:'Ansherina  Pascual Ceralde',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a138059},
+{id:'138098',name:'Mahshad Gharehdash',role_type:'Sales Back Office',new_role:'Social Media and Marketing Executive',year:'2023',month:'November',brand:'Nysaa',country:'UAE',image:a138098},
+{id:'138177',name:'Analyn Mulleon Cuna',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a138177},
+{id:'138255',name:'Jahson  Chavez Bregias',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a138255},
+{id:'138509',name:'Joli Ann Dela Cruz Nava',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a138509},
+{id:'138700',name:'Julia Kim  Estrella Pabalate',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Hush Puppies',country:'UAE',image:a138700},
+{id:'138723',name:'Purushothaman Durairaj',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a138723},
+{id:'138729',name:'May Rose Mones Gomez',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Cool Club',country:'UAE',image:a138729},
+{id:'138789',name:'Srawan Thapa',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a138789},
+{id:'138799',name:'Niraj Lama',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a138799},
+{id:'138802',name:'Simon Biswa',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a138802},
+{id:'138820',name:'George  Sacamay Doron',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a138820},
+{id:'138822',name:'Jean Barreda  Garcia',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a138822},
+{id:'138823',name:'Mary Grace Dacumos Bolloso',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'LC Waikiki Modest',country:'UAE',image:a138823},
+{id:'138880',name:'Arvind Kumar Yadav',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a138880},
+{id:'139031',name:'MD Shahid Afroz',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a139031},
+{id:'139062',name:'Mohamed Souissi',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Hush Puppies',country:'UAE',image:a139062},
+{id:'139394',name:'Bhanubhakta Dhungel',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a139394},
+{id:'139516',name:'Treza Chamling Rai',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'La Vie En Rose',country:'UAE',image:a139516},
+{id:'139518',name:'Sharwan Raj',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Adidas',country:'UAE',image:a139518},
+{id:'139638',name:'Rodha Lepcha',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a139638},
+{id:'139699',name:'Amuthan Rajendran',role_type:'Ecommerce',new_role:'Head of Product',year:'2023',month:'December',brand:'6th Street',country:'UAE',image:a139699},
+{id:'140333',name:'Helen Nader Badeaa Kalds',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'La Vie En Rose',country:'UAE',image:a140333},
+{id:'140351',name:'Tej Bahadur  Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a140351},
+{id:'140407',name:'Anish Pariyar',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a140407},
+{id:'141197',name:'Aiman Rafia Hashim',role_type:'Sales Back Office',new_role:'Senior Merchandiser',year:'2023',month:'October',brand:'3rd Party Ecommerce',country:'UAE',image:a141197},
+{id:'142629',name:'Aisha Hassan Kaabi',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a142629},
+{id:'143492',name:'Zahara Nyevu Tabulo',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'La Vie En Rose',country:'UAE',image:a143492},
+{id:'143582',name:'Abeer Saleh Mthes Aldawsari',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a143582},
+{id:'144524',name:'Sharlyn Joy Francisco Hormillosa',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a144524},
+{id:'144572',name:'Samir  Rai',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a144572},
+{id:'145344',name:'Saravanakumar Rajkumar',role_type:'Support Function',new_role:'Senior Executive - Human Capital',year:'2023',month:'November',brand:'Human Capital',country:'UAE',image:a145344},
+{id:'145617',name:'Banzeer Samidass Alosious',role_type:'Distribution Centre',new_role:'Manager - Distribution Center',year:'2023',month:'December',brand:'Distribution Centre',country:'UAE',image:a145617},
+{id:'145735',name:'Mohammed Ravish Khan',role_type:'Ecommerce',new_role:'Assistant Manager – Last Mile',year:'2023',month:'December',brand:'6th Street',country:'UAE',image:a145735},
+{id:'145818',name:'Chabbia Moncef',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a145818},
+{id:'146150',name:'Anjali Pathania',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'The Athletes Co',country:'UAE',image:a146150},
+{id:'146457',name:'Muhammed Rashique Pilathottathil',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a146457},
+{id:'146549',name:'Layth Al Hamwi',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Calvin Klein',country:'UAE',image:a146549},
+{id:'148570',name:'Ronel Pacana Eleccion',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'Cool Club',country:'UAE',image:a148570},
+{id:'149183',name:'Ahmed Hussen Ahmed',role_type:'Sales Back Office',new_role:'Area Trainer',year:'2023',month:'November',brand:'Tim Hortons',country:'UAE',image:a149183},
+{id:'150027',name:'Zeinab Mohamad El Zeilaa',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'Tommy Hilfiger',country:'UAE',image:a150027},
+{id:'150548',name:'Manisha Bhagtani',role_type:'Support Function',new_role:'Senior Executive - Accounts',year:'2023',month:'November',brand:'Tim Hortons',country:'UAE',image:a150548},
+{id:'151336',name:'Reham Mohammed Saeed Abu Hamamah',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Naturalizer',country:'UAE',image:a151336},
+{id:'154857',name:'Junaid Javed Khan',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a154857},
+{id:'155096',name:'Saidakram Nazarov',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'December',brand:'Calvin Klein',country:'UAE',image:a155096},
+{id:'155504',name:'Norah Atif Alamri',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'November',brand:'Steve Madden',country:'UAE',image:a155504},
+{id:'155756',name:'Raghad Khalid Mohammed Aqqad',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Dune',country:'UAE',image:a155756},
+{id:'155944',name:'Atheer Ali Hassan Alzahrain',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Dune',country:'UAE',image:a155944},
+{id:'157208',name:'Shivani Sharma',role_type:'Leadership',new_role:'General Manager',year:'2023',month:'November',brand:'Bliss Bites',country:'UAE',image:a157208},
 ];
