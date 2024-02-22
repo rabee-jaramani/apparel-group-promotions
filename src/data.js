@@ -420,18 +420,12 @@ import a107586 from './assets/employee_images/107586.webp';
 import a100213 from './assets/employee_images/100213.webp'
 import a100306 from './assets/employee_images/100306.webp'
 import a100595 from './assets/employee_images/100595.webp'
-import a100771 from './assets/employee_images/100771.webp'
 import a101348 from './assets/employee_images/101348.webp'
-import a101560 from './assets/employee_images/101560.webp'
-import a102292 from './assets/employee_images/102292.webp'
 import a103607 from './assets/employee_images/103607.webp'
 import a103670 from './assets/employee_images/103670.webp'
 import a103751 from './assets/employee_images/103751.webp'
 import a103836 from './assets/employee_images/103836.webp'
-import a105018 from './assets/employee_images/105018.webp'
 import a105142 from './assets/employee_images/105142.webp'
-import a105275 from './assets/employee_images/105275.webp'
-import a105569 from './assets/employee_images/105569.webp'
 import a106458 from './assets/employee_images/106458.webp'
 import a107070 from './assets/employee_images/107070.webp'
 import a107135 from './assets/employee_images/107135.webp'
@@ -487,7 +481,6 @@ import a109035 from './assets/employee_images/109035.webp'
 import a109036 from './assets/employee_images/109036.webp'
 import a109760 from './assets/employee_images/109760.webp'
 import a110473 from './assets/employee_images/110473.webp'
-import a111315 from './assets/employee_images/111315.webp'
 import a112083 from './assets/employee_images/112083.webp'
 import a112671 from './assets/employee_images/112671.webp'
 import a112768 from './assets/employee_images/112768.webp'
@@ -495,7 +488,6 @@ import a112846 from './assets/employee_images/112846.webp'
 import a113156 from './assets/employee_images/113156.webp'
 import a114592 from './assets/employee_images/114592.webp'
 import a114771 from './assets/employee_images/114771.webp'
-import a114774 from './assets/employee_images/114774.webp'
 import a115292 from './assets/employee_images/115292.webp'
 import a115327 from './assets/employee_images/115327.webp'
 import a115334 from './assets/employee_images/115334.webp'
@@ -517,7 +509,6 @@ import a118923 from './assets/employee_images/118923.webp'
 import a118925 from './assets/employee_images/118925.webp'
 import a118928 from './assets/employee_images/118928.webp'
 import a119118 from './assets/employee_images/119118.webp'
-import a119135 from './assets/employee_images/119135.webp'
 import a119836 from './assets/employee_images/119836.webp'
 import a120031 from './assets/employee_images/120031.webp'
 import a120353 from './assets/employee_images/120353.webp'
@@ -534,11 +525,8 @@ import a123155 from './assets/employee_images/123155.webp'
 import a123157 from './assets/employee_images/123157.webp'
 import a123161 from './assets/employee_images/123161.webp'
 import a123321 from './assets/employee_images/123321.webp'
-import a123508 from './assets/employee_images/123508.webp'
 import a123887 from './assets/employee_images/123887.webp'
-import a123921 from './assets/employee_images/123921.webp'
 import a124030 from './assets/employee_images/124030.webp'
-import a124048 from './assets/employee_images/124048.webp'
 import a124060 from './assets/employee_images/124060.webp'
 import a124162 from './assets/employee_images/124162.webp'
 import a124167 from './assets/employee_images/124167.webp'
@@ -550,9 +538,7 @@ import a124832 from './assets/employee_images/124832.webp'
 import a124849 from './assets/employee_images/124849.webp'
 import a124853 from './assets/employee_images/124853.webp'
 import a125194 from './assets/employee_images/125194.webp'
-import a125298 from './assets/employee_images/125298.webp'
 import a125396 from './assets/employee_images/125396.webp'
-import a125404 from './assets/employee_images/125404.webp'
 import a125432 from './assets/employee_images/125432.webp'
 import a125450 from './assets/employee_images/125450.webp'
 import a125789 from './assets/employee_images/125789.webp'
@@ -569,7 +555,6 @@ import a126506 from './assets/employee_images/126506.webp'
 import a126564 from './assets/employee_images/126564.webp'
 import a126573 from './assets/employee_images/126573.webp'
 import a126580 from './assets/employee_images/126580.webp'
-import a126732 from './assets/employee_images/126732.webp'
 import a126734 from './assets/employee_images/126734.webp'
 import a126863 from './assets/employee_images/126863.webp'
 import a127267 from './assets/employee_images/127267.webp'
@@ -589,9 +574,6 @@ import a129158 from './assets/employee_images/129158.webp'
 import a130628 from './assets/employee_images/130628.webp'
 import a131305 from './assets/employee_images/131305.webp'
 import a131602 from './assets/employee_images/131602.webp'
-import a132616 from './assets/employee_images/132616.webp'
-import a133389 from './assets/employee_images/133389.webp'
-import a133423 from './assets/employee_images/133423.webp'
 import a135001 from './assets/employee_images/135001.webp'
 import a135621 from './assets/employee_images/135621.webp'
 import a135640 from './assets/employee_images/135640.webp'
@@ -606,7 +588,6 @@ import a136368 from './assets/employee_images/136368.webp'
 import a136391 from './assets/employee_images/136391.webp'
 import a136401 from './assets/employee_images/136401.webp'
 import a136427 from './assets/employee_images/136427.webp'
-import a136441 from './assets/employee_images/136441.webp'
 import a136475 from './assets/employee_images/136475.webp'
 import a136655 from './assets/employee_images/136655.webp'
 import a136993 from './assets/employee_images/136993.webp'
@@ -643,28 +624,18 @@ import a140333 from './assets/employee_images/140333.webp'
 import a140351 from './assets/employee_images/140351.webp'
 import a140407 from './assets/employee_images/140407.webp'
 import a141197 from './assets/employee_images/141197.webp'
-import a142629 from './assets/employee_images/142629.webp'
 import a143492 from './assets/employee_images/143492.webp'
-import a143582 from './assets/employee_images/143582.webp'
 import a144524 from './assets/employee_images/144524.webp'
 import a144572 from './assets/employee_images/144572.webp'
-import a145344 from './assets/employee_images/145344.webp'
-import a145617 from './assets/employee_images/145617.webp'
 import a145735 from './assets/employee_images/145735.webp'
 import a145818 from './assets/employee_images/145818.webp'
 import a146150 from './assets/employee_images/146150.webp'
-import a146457 from './assets/employee_images/146457.webp'
 import a146549 from './assets/employee_images/146549.webp'
 import a148570 from './assets/employee_images/148570.webp'
 import a149183 from './assets/employee_images/149183.webp'
 import a150027 from './assets/employee_images/150027.webp'
 import a150548 from './assets/employee_images/150548.webp'
-import a151336 from './assets/employee_images/151336.webp'
-import a154857 from './assets/employee_images/154857.webp'
 import a155096 from './assets/employee_images/155096.webp'
-import a155504 from './assets/employee_images/155504.webp'
-import a155756 from './assets/employee_images/155756.webp'
-import a155944 from './assets/employee_images/155944.webp'
 import a157208 from './assets/employee_images/157208.webp'
 export const data_list = [
   {
@@ -13662,18 +13633,18 @@ export const data_list = [
   {id:'100213',name:'Yusuf Ali Solanki',role_type:'Distribution Centre',new_role:'Assistant Manager - DC',year:'2023',month:'October',brand:'Central Logistics',country:'UAE',image:a100213},
 {id:'100306',name:'Siyadh Valiyakath Muhammed Ali',role_type:'Support Function',new_role:'Transport Supervisor',year:'2023',month:'October',brand:'Central Logistics',country:'UAE',image:a100306},
 {id:'100595',name:'Alberto Matias Alba',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Nine West',country:'UAE',image:a100595},
-{id:'100771',name:'Abelardo II Hernandez',role_type:'Sales Back Office',new_role:'Assistant Manager - Events',year:'2023',month:'October',brand:'Little Red Box',country:'UAE',image:a100771},
+{id:'100771',name:'Abelardo II Hernandez',role_type:'Sales Back Office',new_role:'Assistant Manager - Events',year:'2023',month:'October',brand:'Little Red Box',country:'UAE',image:''},
 {id:'101348',name:'Deepak Kumar Saini',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a101348},
-{id:'101560',name:'Mahesh Vrujlal Makwana',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a101560},
-{id:'102292',name:'Nirvair Singh',role_type:'Distribution Centre',new_role:'Forklift Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a102292},
+{id:'101560',name:'Mahesh Vrujlal Makwana',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:''},
+{id:'102292',name:'Nirvair Singh',role_type:'Distribution Centre',new_role:'Forklift Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:''},
 {id:'103607',name:'Mohammad Ishteyaque',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'The Childrens Place',country:'UAE',image:a103607},
 {id:'103670',name:'Muhammad Usman Butt',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Beverly Hills Polo Club',country:'UAE',image:a103670},
 {id:'103751',name:'Priscilla Younus',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Inglot',country:'UAE',image:a103751},
 {id:'103836',name:'Noelyn Marucut',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a103836},
-{id:'105018',name:'Iqbal Liyakath Ali',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a105018},
+{id:'105018',name:'Iqbal Liyakath Ali',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:''},
 {id:'105142',name:'Jerick Andal Macatangay',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a105142},
-{id:'105275',name:'Dinesh Neupane',role_type:'Distribution Centre',new_role:'Forklift Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a105275},
-{id:'105569',name:'Anand Pradhan',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Skechers',country:'UAE',image:a105569},
+{id:'105275',name:'Dinesh Neupane',role_type:'Distribution Centre',new_role:'Forklift Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:''},
+{id:'105569',name:'Anand Pradhan',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Skechers',country:'UAE',image:''},
 {id:'106458',name:'Anter Mahmoud',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Dune',country:'UAE',image:a106458},
 {id:'107070',name:'Haider  Ali',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Skechers',country:'UAE',image:a107070},
 {id:'107135',name:'Manoj Bhandari',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a107135},
@@ -13729,7 +13700,7 @@ export const data_list = [
 {id:'109036',name:'Mohammed Farhad Alam',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a109036},
 {id:'109760',name:'Quadeer Ansari',role_type:'Support Function',new_role:'Assistant Manager - Internal Audit',year:'2023',month:'October',brand:'Tim Hortons',country:'UAE',image:a109760},
 {id:'110473',name:'Mohamed Risthaan Uwaisdeen',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'Birkenstock',country:'UAE',image:a110473},
-{id:'111315',name:'Umair Akhlaq',role_type:'Distribution Centre',new_role:'Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a111315},
+{id:'111315',name:'Umair Akhlaq',role_type:'Distribution Centre',new_role:'Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:''},
 {id:'112083',name:'Philip Alden Ramos Pantig',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a112083},
 {id:'112671',name:'Ashish Kumar Panda',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'ALDO',country:'UAE',image:a112671},
 {id:'112768',name:'Subash Khadka',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a112768},
@@ -13737,7 +13708,7 @@ export const data_list = [
 {id:'113156',name:'Nimesh Saroha',role_type:'Sales Back Office',new_role:'Operations Manager',year:'2023',month:'October',brand:'Jamies Italian',country:'UAE',image:a113156},
 {id:'114592',name:'Jeny Cunanan',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a114592},
 {id:'114771',name:'Ryan Llave',role_type:'Sales Front Office',new_role:'Senior Visual Merchandiser',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a114771},
-{id:'114774',name:'Ohoud almantakh',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a114774},
+{id:'114774',name:'Ohoud almantakh',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:''},
 {id:'115292',name:'Jay Mark Ibarra',role_type:'Sales Front Office',new_role:'Area Visual Merchandiser',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a115292},
 {id:'115327',name:'Rajesh Limbu',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Birkenstock',country:'UAE',image:a115327},
 {id:'115334',name:'Marizen Munoz',role_type:'Sales Front Office',new_role:'Senior Store Manager',year:'2023',month:'October',brand:'ALDO Accessories',country:'UAE',image:a115334},
@@ -13759,7 +13730,7 @@ export const data_list = [
 {id:'118925',name:'Mohd Zeeshan Mohd Usman',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a118925},
 {id:'118928',name:'Rajesh Kumar Pal',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a118928},
 {id:'119118',name:'Suraj Thakur',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'XIMIVOGUE',country:'UAE',image:a119118},
-{id:'119135',name:'Hana Goshu Kibret',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Calvin Klein',country:'UAE',image:a119135},
+{id:'119135',name:'Hana Goshu Kibret',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Calvin Klein',country:'UAE',image:''},
 {id:'119836',name:'Ziaulhaq Jalaly',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a119836},
 {id:'120031',name:'Salah Saleh Al Wahaibi',role_type:'Ecommerce',new_role:'Executive - Customer Service ',year:'2023',month:'October',brand:'6th Street',country:'UAE',image:a120031},
 {id:'120353',name:'Joan Castor',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a120353},
@@ -13776,11 +13747,11 @@ export const data_list = [
 {id:'123157',name:'Nitesh Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Adidas',country:'UAE',image:a123157},
 {id:'123161',name:'Yugen Lama',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a123161},
 {id:'123321',name:'Thilini Bagya Wijesinghe Weesin Mudiyanselage',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Naturalizer',country:'UAE',image:a123321},
-{id:'123508',name:'Hyder Bin Osman Maqavi',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:a123508},
+{id:'123508',name:'Hyder Bin Osman Maqavi',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Aeropostale',country:'UAE',image:''},
 {id:'123887',name:'Lalita Ale Magar',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'La Vie En Rose',country:'UAE',image:a123887},
-{id:'123921',name:'Muhsin Mishari',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'R&B',country:'UAE',image:a123921},
+{id:'123921',name:'Muhsin Mishari',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'R&B',country:'UAE',image:''},
 {id:'124030',name:'Aftab Ahmad Imtiyaj Ahmad',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'XIMIVOGUE',country:'UAE',image:a124030},
-{id:'124048',name:'Hussein Naser',role_type:'Sales Back Office',new_role:'Category Manager',year:'2023',month:'November',brand:'Moreschi',country:'UAE',image:a124048},
+{id:'124048',name:'Hussein Naser',role_type:'Sales Back Office',new_role:'Category Manager',year:'2023',month:'November',brand:'Moreschi',country:'UAE',image:''},
 {id:'124060',name:'Shaira Norelly Novia Jaravata',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a124060},
 {id:'124162',name:'Annie Rose Tungol Pantalunan',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'HEMA',country:'UAE',image:a124162},
 {id:'124167',name:'Madushika Nilani Samarawickrama',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'TOMS',country:'UAE',image:a124167},
@@ -13792,9 +13763,9 @@ export const data_list = [
 {id:'124849',name:'Rajan Karki',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a124849},
 {id:'124853',name:'Robert Jay Gacusan Ancheta',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Tommy Hilfiger',country:'UAE',image:a124853},
 {id:'125194',name:'Amjad Muhamed',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a125194},
-{id:'125298',name:'Harjit Singh',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'October',brand:'Transport',country:'UAE',image:a125298},
+{id:'125298',name:'Harjit Singh',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'October',brand:'Transport',country:'UAE',image:''},
 {id:'125396',name:'Ritika Dotel',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a125396},
-{id:'125404',name:'Hadeer Awad Asy Zahran',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Dune',country:'UAE',image:a125404},
+{id:'125404',name:'Hadeer Awad Asy Zahran',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Dune',country:'UAE',image:''},
 {id:'125432',name:'Celeste Daculan',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'Rituals',country:'UAE',image:a125432},
 {id:'125450',name:'Mansoor Bin Mahmood',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a125450},
 {id:'125789',name:'Bishnu Kumar Thapa',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a125789},
@@ -13811,7 +13782,7 @@ export const data_list = [
 {id:'126564',name:'Hasta Bahadur Gurung',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a126564},
 {id:'126573',name:'Paras Kumar Ramadhar Sharma',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'October',brand:'Beverly Hills Polo Club',country:'UAE',image:a126573},
 {id:'126580',name:'Subhash Chandra Sharma',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a126580},
-{id:'126732',name:'Mehran Ali Ahmed',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a126732},
+{id:'126732',name:'Mehran Ali Ahmed',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:''},
 {id:'126734',name:'Thurein Kaung Chit',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a126734},
 {id:'126863',name:'Kunal Chhetri Goflu Chhetri',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a126863},
 {id:'127267',name:'Mohamed Safan Mohamed Uresh',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a127267},
@@ -13831,9 +13802,9 @@ export const data_list = [
 {id:'130628',name:'Makbool Ahamad Samsul Hoda',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a130628},
 {id:'131305',name:'Sangam Gurung',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Birkenstock',country:'UAE',image:a131305},
 {id:'131602',name:'Monisha Nair',role_type:'Sales Back Office',new_role:'Senior Executive - Marketing',year:'2023',month:'November',brand:'Marketing',country:'UAE',image:a131602},
-{id:'132616',name:'Faizan Baig',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:a132616},
-{id:'133389',name:'Mathanath Manickavel',role_type:'Distribution Centre',new_role:'Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:a133389},
-{id:'133423',name:'Sivanna Thimmappa',role_type:'Ecommerce',new_role:'Senior Executive - Accounts',year:'2023',month:'October',brand:'6th Street',country:'UAE',image:a133423},
+{id:'132616',name:'Faizan Baig',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Crocs',country:'UAE',image:''},
+{id:'133389',name:'Mathanath Manickavel',role_type:'Distribution Centre',new_role:'Driver',year:'2023',month:'November',brand:'Distribution Centre',country:'UAE',image:''},
+{id:'133423',name:'Sivanna Thimmappa',role_type:'Ecommerce',new_role:'Senior Executive - Accounts',year:'2023',month:'October',brand:'6th Street',country:'UAE',image:''},
 {id:'135001',name:'Sushma Giri Bhattarai',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'LC Waikiki',country:'UAE',image:a135001},
 {id:'135621',name:'Harleen Kaur',role_type:'Sales Back Office',new_role:'Key Account Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a135621},
 {id:'135640',name:'Ishandeep Gurung',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Skechers',country:'UAE',image:a135640},
@@ -13848,7 +13819,7 @@ export const data_list = [
 {id:'136391',name:'Suman Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a136391},
 {id:'136401',name:'Subin Sunar',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a136401},
 {id:'136427',name:'Shadab Mohammad Shehzad',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a136427},
-{id:'136441',name:'SALBORO SHALSY',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Birkenstock',country:'UAE',image:a136441},
+{id:'136441',name:'SALBORO SHALSY',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Birkenstock',country:'UAE',image:''},
 {id:'136475',name:'Manikanta Ravi',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B Kids',country:'UAE',image:a136475},
 {id:'136655',name:'Remson Pinpin Cabayao',role_type:'Sales Front Office',new_role:'Area Visual Merchandiser',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a136655},
 {id:'136993',name:'Sandipa Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Dune',country:'UAE',image:a136993},
@@ -13885,27 +13856,27 @@ export const data_list = [
 {id:'140351',name:'Tej Bahadur  Tamang',role_type:'Sales Front Office',new_role:'Senior Sales Associate',year:'2023',month:'October',brand:'Brand Bazaar',country:'UAE',image:a140351},
 {id:'140407',name:'Anish Pariyar',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'October',brand:'The Athletes Co',country:'UAE',image:a140407},
 {id:'141197',name:'Aiman Rafia Hashim',role_type:'Sales Back Office',new_role:'Senior Merchandiser',year:'2023',month:'October',brand:'3rd Party Ecommerce',country:'UAE',image:a141197},
-{id:'142629',name:'Aisha Hassan Kaabi',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a142629},
+{id:'142629',name:'Aisha Hassan Kaabi',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:''},
 {id:'143492',name:'Zahara Nyevu Tabulo',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'La Vie En Rose',country:'UAE',image:a143492},
-{id:'143582',name:'Abeer Saleh Mthes Aldawsari',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:a143582},
+{id:'143582',name:'Abeer Saleh Mthes Aldawsari',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'December',brand:'Rituals',country:'UAE',image:''},
 {id:'144524',name:'Sharlyn Joy Francisco Hormillosa',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'New Yorker',country:'UAE',image:a144524},
 {id:'144572',name:'Samir  Rai',role_type:'Sales Front Office',new_role:'Department Manager',year:'2023',month:'October',brand:'R&B',country:'UAE',image:a144572},
-{id:'145344',name:'Saravanakumar Rajkumar',role_type:'Support Function',new_role:'Senior Executive - Human Capital',year:'2023',month:'November',brand:'Human Capital',country:'UAE',image:a145344},
-{id:'145617',name:'Banzeer Samidass Alosious',role_type:'Distribution Centre',new_role:'Manager - Distribution Center',year:'2023',month:'December',brand:'Distribution Centre',country:'UAE',image:a145617},
+{id:'145344',name:'Saravanakumar Rajkumar',role_type:'Support Function',new_role:'Senior Executive - Human Capital',year:'2023',month:'November',brand:'Human Capital',country:'UAE',image:''},
+{id:'145617',name:'Banzeer Samidass Alosious',role_type:'Distribution Centre',new_role:'Manager - Distribution Center',year:'2023',month:'December',brand:'Distribution Centre',country:'UAE',image:''},
 {id:'145735',name:'Mohammed Ravish Khan',role_type:'Ecommerce',new_role:'Assistant Manager – Last Mile',year:'2023',month:'December',brand:'6th Street',country:'UAE',image:a145735},
 {id:'145818',name:'Chabbia Moncef',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a145818},
 {id:'146150',name:'Anjali Pathania',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'December',brand:'The Athletes Co',country:'UAE',image:a146150},
-{id:'146457',name:'Muhammed Rashique Pilathottathil',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:a146457},
+{id:'146457',name:'Muhammed Rashique Pilathottathil',role_type:'Distribution Centre',new_role:'Driver - Light Vehicle',year:'2023',month:'December',brand:'Transport',country:'UAE',image:''},
 {id:'146549',name:'Layth Al Hamwi',role_type:'Sales Front Office',new_role:'Assistant Store Manager',year:'2023',month:'December',brand:'Calvin Klein',country:'UAE',image:a146549},
 {id:'148570',name:'Ronel Pacana Eleccion',role_type:'Sales Front Office',new_role:'Visual Merchandiser',year:'2023',month:'October',brand:'Cool Club',country:'UAE',image:a148570},
 {id:'149183',name:'Ahmed Hussen Ahmed',role_type:'Sales Back Office',new_role:'Area Trainer',year:'2023',month:'November',brand:'Tim Hortons',country:'UAE',image:a149183},
 {id:'150027',name:'Zeinab Mohamad El Zeilaa',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'October',brand:'Tommy Hilfiger',country:'UAE',image:a150027},
 {id:'150548',name:'Manisha Bhagtani',role_type:'Support Function',new_role:'Senior Executive - Accounts',year:'2023',month:'November',brand:'Tim Hortons',country:'UAE',image:a150548},
-{id:'151336',name:'Reham Mohammed Saeed Abu Hamamah',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Naturalizer',country:'UAE',image:a151336},
-{id:'154857',name:'Junaid Javed Khan',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:a154857},
+{id:'151336',name:'Reham Mohammed Saeed Abu Hamamah',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Naturalizer',country:'UAE',image:''},
+{id:'154857',name:'Junaid Javed Khan',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'December',brand:'Tommy Hilfiger',country:'UAE',image:''},
 {id:'155096',name:'Saidakram Nazarov',role_type:'Sales Front Office',new_role:'Sales Associate',year:'2023',month:'December',brand:'Calvin Klein',country:'UAE',image:a155096},
-{id:'155504',name:'Norah Atif Alamri',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'November',brand:'Steve Madden',country:'UAE',image:a155504},
-{id:'155756',name:'Raghad Khalid Mohammed Aqqad',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Dune',country:'UAE',image:a155756},
-{id:'155944',name:'Atheer Ali Hassan Alzahrain',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Dune',country:'UAE',image:a155944},
+{id:'155504',name:'Norah Atif Alamri',role_type:'Sales Front Office',new_role:'Cluster Manager',year:'2023',month:'November',brand:'Steve Madden',country:'UAE',image:''},
+{id:'155756',name:'Raghad Khalid Mohammed Aqqad',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Dune',country:'UAE',image:''},
+{id:'155944',name:'Atheer Ali Hassan Alzahrain',role_type:'Sales Front Office',new_role:'Store Manager',year:'2023',month:'November',brand:'Dune',country:'UAE',image:''},
 {id:'157208',name:'Shivani Sharma',role_type:'Leadership',new_role:'General Manager',year:'2023',month:'November',brand:'Bliss Bites',country:'UAE',image:a157208},
 ];
