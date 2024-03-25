@@ -19,7 +19,6 @@ export default function FiltersForm(props) {
     listToRender,
     setListToRender,
   } = props;
-  console.log(listToRender);
   const [year, setYear] = useState('all');
   const [month, setMonth] = useState('all');
   const [country, setCountry] = useState('all');
