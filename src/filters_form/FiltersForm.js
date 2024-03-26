@@ -21,7 +21,7 @@ export default function FiltersForm(props) {
   } = props;
   const [year, setYear] = useState('all');
   const [month, setMonth] = useState('all');
-  const [country, setCountry] = useState('all');
+  // const [country, setCountry] = useState('all');
   const [role_type, setRole_type] = useState('all');
   const [name, setName] = useState('');
   const [ijp_value, setIJP_value] = useState(false);
@@ -45,18 +45,7 @@ export default function FiltersForm(props) {
       let temp_list = listToBeFiltered.filter((e) => {
         if (e.month === undefined || e.month === null) {
           return true;
-        } else return e.month.toLowerCase() === month.toLowerCase();
-      });
-      return filterByCountry(temp_list);
-    } else {
-      return filterByCountry(listToBeFiltered);
-    }
-  };
-
-  const filterByCountry = (listToBeFiltered) => {
-    if (country !== 'all') {
-      let temp_list = listToBeFiltered.filter((e) => {
-        return e.country.toLowerCase() === country.toLowerCase();
+        } else return e.month.toLowerCase().trim() === month.toLowerCase().trim();
       });
       return filterByRoleType(temp_list);
     } else {
@@ -64,10 +53,21 @@ export default function FiltersForm(props) {
     }
   };
 
+  // const filterByCountry = (listToBeFiltered) => {
+  //   if (country !== 'all') {
+  //     let temp_list = listToBeFiltered.filter((e) => {
+  //       return e.country.toLowerCase().trim() === country.toLowerCase().trim();
+  //     });
+  //     return filterByRoleType(temp_list);
+  //   } else {
+  //     return filterByRoleType(listToBeFiltered);
+  //   }
+  // };
+
   const filterByRoleType = (listToBeFiltered) => {
     if (role_type !== 'all') {
       let temp_list = listToBeFiltered.filter((e) => {
-        return e.role_type.toLowerCase() === role_type.toLowerCase();
+        return e.role_type.toLowerCase().trim() === role_type.toLowerCase().trim();
       });
       return filterByName(temp_list);
     } else {
@@ -78,7 +78,7 @@ export default function FiltersForm(props) {
   const filterByName = (listToBeFiltered) => {
     if (name !== '') {
       let temp_list = listToBeFiltered.filter((e) => {
-        return e.name.toLowerCase().includes(name.toLowerCase());
+        return e.name.toLowerCase().trim().includes(name.toLowerCase().trim());
       });
       setSearching(false);
       return filterByIJP(temp_list);
@@ -150,7 +150,7 @@ export default function FiltersForm(props) {
             <MenuItem value="december">December</MenuItem>
           </Select>
         </FormControl>
-        <FormControl fullWidth>
+        {/* <FormControl fullWidth>
           <InputLabel>BY COUNTRY</InputLabel>
           <Select
             value={country}
@@ -166,7 +166,7 @@ export default function FiltersForm(props) {
             <MenuItem value="OMAN">OMAN</MenuItem>
             <MenuItem value="BAHRAIN">BAHRAIN</MenuItem>
           </Select>
-        </FormControl>
+        </FormControl> */}
 
         <FormControl fullWidth>
           <InputLabel>BY ROLE</InputLabel>

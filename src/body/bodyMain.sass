@@ -1,0 +1,47 @@
+
+.countries-nav
+    display: flex
+    align-content: center
+    justify-content: center
+    gap: 10px
+    width: 100%
+    max-width: 400px
+    margin: auto
+    padding: 10px 0
+.country
+    padding: 3px
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    gap: 5px
+    border-radius: 5px
+    box-shadow: 0 0 3px #b9b9b9
+    &:hover
+        background-color: #c4d600
+    p
+        color: #03257e
+        font-weight: bold
+        font-size: 15px
+a
+    text-decoration: none
+.flag-icon
+    width: 80px
+.active
+    background-color: #c4d600 !important
+@media screen and (max-width:700px)
+    .countries-nav
+        gap: 5px
+    .country
+        p
+            font-size: 13px
+    .flag-icon
+        width: 40px
+@media screen and (max-width:380px)
+    .countries-nav
+        gap: 5px
+    .country
+        p
+            font-size: 12px
+    .flag-icon
+        width: 30px
