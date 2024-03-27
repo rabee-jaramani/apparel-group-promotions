@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import Card from '../card/Card';
 import FiltersForm from '../filters_form/FiltersForm';
-import { ksa_list } from '../countries-lists/ksa_data';
+import { kuwait_list } from '../countries-lists/kuwait_data';
 import { ProgressBar } from 'react-loader-spinner';
 import TablePagination from '@mui/material/TablePagination'; // Import TablePagination from Material-UI
 
-export default function KSA() {
-  const [listToRender, setListToRender] = useState(ksa_list);
+export default function KUWAIT() {
+  const [listToRender, setListToRender] = useState(kuwait_list);
   const [searching, setSearching] = useState(false);
   const [page, setPage] = useState(0); // State for page number
   const [rowsPerPage, setRowsPerPage] = useState(10); // State for rows per page
@@ -43,7 +43,7 @@ export default function KSA() {
       <FiltersForm
         searching={searching}
         setSearching={setSearching}
-        originalList={ksa_list}
+        originalList={kuwait_list}
         listToRender={listToRender}
         setListToRender={setListToRender}
         setPage={setPage}

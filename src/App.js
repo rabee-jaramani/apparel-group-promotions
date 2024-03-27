@@ -1,14 +1,17 @@
 import { useEffect, useState } from 'react';
 import Banner from './banner/Banner';
-import Body from './body/Body';
 import Footer from './footer/Footer';
 import Header from './header/Header';
 import './style.sass';
 import arrowIcon from './assets/arrow-icon.svg';
-import { BrowserRouter, BrowserRouter as Router, Link, Route, Routes, Switch } from 'react-router-dom';
+import {  BrowserRouter as   Link,Route, Routes } from 'react-router-dom';
 import UAE from './body/UAE';
 import KSA from './body/KSA';
 import BodyMain from './body/BodyMain';
+import KUWAIT from './body/KUWAIT';
+import OMAN from './body/OMAN';
+import QATAR from './body/QATAR';
+import BAHRAIN from './body/BAHRAIN';
 function App() {
   const [showTopBtn, setShowTopBtn] = useState(false);
 
@@ -26,7 +29,7 @@ function App() {
         setShowTopBtn(false);
       }
     });
-  }, []);
+  });
   return (
     <div className="App">
       <Header />
@@ -35,10 +38,11 @@ function App() {
       <Routes>
         <Route path="/" element={<UAE />}/>
         <Route path="/ksa" element={<KSA />} />
-
-      </Routes>
-      {/* <Body /> */}
-    
+        <Route path="/kuwait" element={<KUWAIT />} />
+        <Route path="/oman" element={<OMAN />} />
+        <Route path="/qatar" element={<QATAR />} />
+        <Route path="/bahrain" element={<BAHRAIN />} />
+      </Routes>    
       <Footer />
       {showTopBtn ? (
         <div className="btn-to-top" onClick={goToTop}>

@@ -12,9 +12,9 @@ export default function Footer() {
       <a
         rel="noreferrer"
         target="_blank"
-        href="https://apparelgroupglobal.com/en/"
+        href="https://apparelglobal.com/en/"
       >
-        www.apparelgroupglobal.com
+        www.apparelglobal.com
       </a>
       <p className="powered-by">Powered By APPAREL GROUP</p>
     </div>

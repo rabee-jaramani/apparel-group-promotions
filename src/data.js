@@ -2,11 +2,8 @@ import a101267 from './assets/employee_images/101267.webp';
 import a102074 from './assets/employee_images/102074.webp';
 import a106076 from './assets/employee_images/106076.webp';
 import a107282 from './assets/employee_images/107282.webp';
-import a109363 from './assets/employee_images/109363.webp';
 import a109562 from './assets/employee_images/109562.webp';
 import a114176 from './assets/employee_images/114176.webp';
-import a116023 from './assets/employee_images/116023.webp';
-import a119840 from './assets/employee_images/119840.webp';
 import a121736 from './assets/employee_images/121736.webp';
 import a123142 from './assets/employee_images/123142.webp';
 import a124296 from './assets/employee_images/124296.webp';
@@ -1089,7 +1086,7 @@ export const data_list = [
     brand: 'Tim Hortons',
     country: 'KUWAIT',
     image: a153411,
-  },
+  }, 
   {
     id: '112321',
     name: 'Ysabel Marfil',
@@ -7138,7 +7135,7 @@ export const data_list = [
     month: 'January',
     brand: 'Birkenstock',
     country: 'KUWAIT',
-    image: a109363,
+    // image: a109363,
   },
   {
     id: '109829',
@@ -7221,7 +7218,7 @@ export const data_list = [
     month: 'January',
     brand: 'Levis',
     country: 'KUWAIT',
-    image: a116023,
+    // image: a116023,
   },
   {
     id: '119390',
@@ -7242,7 +7239,7 @@ export const data_list = [
     month: 'January',
     brand: 'Edge',
     country: 'KUWAIT',
-    image: a119840,
+    // image: a119840,
   },
   {
     id: '121729',
