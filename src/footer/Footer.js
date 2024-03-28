@@ -4,11 +4,18 @@ export default function Footer() {
   return (
     <div className="footer-cont">
       <div class="logo-div">
-        <img
-          src="/apparel-promotions/static/media/ag_logo.d91f35808d094cfb863c8a6d796e6bbc.svg"
-          alt="ag logo"
-        />
+        <a
+          rel="noreferrer"
+          target="_blank"
+          href="https://apparelglobal.com/en/"
+        >
+          <img
+            src="/apparel-promotions/static/media/ag_logo.d91f35808d094cfb863c8a6d796e6bbc.svg"
+            alt="ag logo"
+          />
+        </a>
       </div>
+<<<<<<< Updated upstream
       <a
         rel="noreferrer"
         target="_blank"
@@ -17,6 +24,9 @@ export default function Footer() {
         www.apparelgroupglobal.com
       </a>
       <p className="powered-by">Powered By APPAREL GROUP</p>
+=======
+      <p className="powered-by">Powered By APPAREL GROUP {(new Date().getFullYear())}</p>
+>>>>>>> Stashed changes
     </div>
   );
 }

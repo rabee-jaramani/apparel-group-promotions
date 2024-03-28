@@ -4,7 +4,7 @@ export default function Header() {
     return (
         <div className='header-cont'>
             <div className='logo-div'>
-                <img src={ag_logo} alt='ag logo' />
+                <a href='https://apparelglobal.com/en/' target='_blank' rel="noreferrer"><img src={ag_logo} alt='ag logo' /></a>
             </div>
         </div>
     )
