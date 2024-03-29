@@ -9,7 +9,7 @@ export default function UAE() {
     const [listToRender, setListToRender] = useState(uae_list);
     const [searching, setSearching] = useState(false);
     const [page, setPage] = useState(0); // State for page number
-    const [rowsPerPage, setRowsPerPage] = useState(10); // State for rows per page
+    const [rowsPerPage, setRowsPerPage] = useState(20); // State for rows per page
 
     // Event handler for page change
     const handleChangePage = (event, newPage) => {
