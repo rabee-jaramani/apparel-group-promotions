@@ -15,18 +15,8 @@ export default function Footer() {
           />
         </a>
       </div>
-<<<<<<< Updated upstream
-      <a
-        rel="noreferrer"
-        target="_blank"
-        href="https://apparelgroupglobal.com/en/"
-      >
-        www.apparelgroupglobal.com
-      </a>
-      <p className="powered-by">Powered By APPAREL GROUP</p>
-=======
+
       <p className="powered-by">Powered By APPAREL GROUP {(new Date().getFullYear())}</p>
->>>>>>> Stashed changes
     </div>
   );
 }

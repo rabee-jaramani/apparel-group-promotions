@@ -18,6 +18,7 @@ export default function FiltersForm(props) {
     originalList,
     listToRender,
     setListToRender,
+    setPage,
   } = props;
   console.log(listToRender);
   const [year, setYear] = useState('all');
@@ -110,6 +111,7 @@ export default function FiltersForm(props) {
     setSearching(true);
     setTimeout(() => {
       setListToRender(filterByYear(originalList));
+      setPage(0)
     }, 1000);
   };
   return (
